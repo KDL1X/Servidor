@@ -139,3 +139,7 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [20:27:10] [Craft Scheduler Thread - 12 - SmoothTimber/INFO]: SmoothTimber || settings reloaded successfully!
 [20:27:43] [Craft Scheduler Thread - 14 - SmoothTimber/INFO]: SmoothTimber || Detected a message change, reloading messages...
 [20:27:43] [Craft Scheduler Thread - 14 - SmoothTimber/INFO]: SmoothTimber || messages reloaded successfully!
+[23:43:15] [User Authenticator #0/INFO]: UUID of player Rghost1700 is 31c4e24c-b8c0-3a7e-8918-e689253f817a
+[23:43:15] [Server thread/INFO]: Rghost1700 joined the game
+[23:43:15] [Server thread/INFO]: Rghost1700[/127.126.159.180:59251] logged in with entity id 113 at ([world]-1367.5, 109.0, -2050.5)
+[23:43:15] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
