@@ -143,3 +143,5 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [23:43:15] [Server thread/INFO]: Rghost1700 joined the game
 [23:43:15] [Server thread/INFO]: Rghost1700[/127.126.159.180:59251] logged in with entity id 113 at ([world]-1367.5, 109.0, -2050.5)
 [23:43:15] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[23:56:51] [Server thread/INFO]: Rghost1700 lost connection: Disconnected
+[23:56:51] [Server thread/INFO]: Rghost1700 left the game
