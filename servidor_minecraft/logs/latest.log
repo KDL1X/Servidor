@@ -128,3 +128,4 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [23:22:30] [User Authenticator #0/INFO]: UUID of player Rghost1700 is 31c4e24c-b8c0-3a7e-8918-e689253f817a
 [23:22:30] [Server thread/INFO]: Rghost1700 joined the game
 [23:22:30] [Server thread/INFO]: Rghost1700[/127.126.159.180:40961] logged in with entity id 100 at ([world]-1365.5, 109.0, -2050.5)
+[23:35:34] [Server thread/INFO]: Rghost1700 issued server command: /home
