@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742009048611
+  lastteleport: 1742010037311
   lastheal: 0
   mute: 0
   jail: 0
@@ -31,8 +31,8 @@ last-account-name: Kadel
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1344.3637368750656
-  y: 100.0
-  z: -2055.7026912136043
-  yaw: -7.0279765129089355
-  pitch: -5.940853118896484
+  x: -1347.8369115057455
+  y: 59.0
+  z: -1988.0848691604601
+  yaw: -163.95556640625
+  pitch: -8.101022720336914

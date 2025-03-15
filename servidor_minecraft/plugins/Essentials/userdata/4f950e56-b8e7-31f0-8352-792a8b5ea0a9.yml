@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742009991616
-  login: 1741996881661
+  logout: 1742010387767
+  login: 1742010389611
 money: '0'
 last-account-name: AngeloXRT
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1325.1667731049695
-  y: 113.02442408821369
-  z: -1925.6308106006138
-  yaw: -0.752410888671875
-  pitch: 11.100301742553711
+  x: -1315.662961774981
+  y: 118.0
+  z: -1925.7046562252153
+  yaw: 73.94776916503906
+  pitch: 14.850311279296875
