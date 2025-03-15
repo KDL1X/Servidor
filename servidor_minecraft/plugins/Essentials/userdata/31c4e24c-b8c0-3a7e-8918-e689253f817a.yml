@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742003807111
+  lastteleport: 1742004366761
   lastheal: 0
   mute: 0
   jail: 0
@@ -31,8 +31,8 @@ last-account-name: Rghost1700
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1343.699999988079
-  y: 10.0
-  z: -2112.769602786508
-  yaw: 93.07244873046875
-  pitch: -19.514013290405273
+  x: -1342.0873072514694
+  y: 63.0
+  z: -2011.6829643270403
+  yaw: -169.50213623046875
+  pitch: 43.50815200805664
