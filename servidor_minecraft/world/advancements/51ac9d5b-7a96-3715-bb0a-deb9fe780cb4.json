@@ -352,6 +352,7 @@
       "minecraft:creeper": "2025-03-11 01:58:18 +0000",
       "minecraft:piglin": "2025-03-15 04:34:42 +0000",
       "minecraft:zombie": "2025-03-05 15:37:02 +0000",
+      "minecraft:drowned": "2025-03-15 06:31:42 +0000",
       "minecraft:zombie_villager": "2025-03-11 05:28:31 +0000"
     },
     "done": false
@@ -1968,6 +1969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-15 06:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-03-15 04:33:03 +0000",
@@ -2143,6 +2150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-15 06:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-03-15 04:33:08 +0000"
@@ -2230,6 +2243,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-15 04:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-03-15 06:36:28 +0000"
     },
     "done": true
   },
