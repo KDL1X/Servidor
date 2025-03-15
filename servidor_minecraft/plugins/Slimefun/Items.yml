@@ -1770,14 +1770,14 @@ EXPLOSIVE_PICKAXE:
   allow-enchanting: true
   allow-disenchanting: true
   call-explosion-event: false
-  damage-on-use: true
+  damage-on-use: false
 EXPLOSIVE_SHOVEL:
   enabled: true
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
   allow-disenchanting: true
-  damage-on-use: true
+  damage-on-use: false
   call-explosion-event: false
 AUTOMATED_PANNING_MACHINE:
   enabled: true
@@ -3883,7 +3883,7 @@ UPGRADED_EXPLOSIVE_PICKAXE:
   call-explosion-event: false
   break-from-center: false
   trigger-other-plugins: true
-  damage-on-use: true
+  damage-on-use: false
 UPGRADED_EXPLOSIVE_SHOVEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -3893,7 +3893,7 @@ UPGRADED_EXPLOSIVE_SHOVEL:
   call-explosion-event: false
   break-from-center: false
   trigger-other-plugins: true
-  damage-on-use: true
+  damage-on-use: false
 PAXEL:
   enabled: true
   can-be-used-in-workbenches: false
@@ -4131,3 +4131,9 @@ BOTTOMLESS_FLUFFY_BARREL:
   break-only-when-empty: false
   capacity: 1728000000
   show-hologram: true
+SLIMY_ANVIL:
+  enabled: true
+  can-be-used-in-workbenches: false
+  hide-in-guide: false
+  allow-enchanting: true
+  allow-disenchanting: true

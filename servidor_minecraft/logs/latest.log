@@ -1,697 +1,254 @@
-[00:01:21] [User Authenticator #1/INFO]: UUID of player AngeloXRT is 4f950e56-b8e7-31f0-8352-792a8b5ea0a9
-[00:01:21] [Server thread/INFO]: AngeloXRT joined the game
-[00:01:21] [Server thread/INFO]: AngeloXRT[/127.76.118.210:36563] logged in with entity id 4353 at ([world]-68.5, 67.0, -70.5)
-[00:01:33] [Async Chat Thread - #1/INFO]: [Not Secure] <AngeloXRT> mondongo
-[00:02:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Rghost1700> diavlo
-[00:02:13] [Async Chat Thread - #1/INFO]: [Not Secure] <AngeloXRT> dime coordenadas
-[00:02:23] [Async Chat Thread - #0/INFO]: [Not Secure] <AngeloXRT> where are you Scooby Doo?
-[00:02:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Rghost1700> quieres venir a pie o quieres hacerte tp
-[00:02:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Rghost1700> tipo hay para pedir tp
-[00:02:41] [Async Chat Thread - #0/INFO]: [Not Secure] <AngeloXRT> a pie
-[00:02:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Rghost1700> hechale bola
-[00:03:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Rghost1700> -1369 110 -2055
-[00:08:57] [Async Chat Thread - #2/INFO]: [Not Secure] <AngeloXRT> ya me mae, hazme tp xd
-[00:09:15] [Async Chat Thread - #3/INFO]: [Not Secure] <Rghost1700> ./tpa Rghost1700
-[00:09:22] [Async Chat Thread - #3/INFO]: [Not Secure] <Rghost1700> escribe eso sin el .
-[00:09:30] [Server thread/INFO]: AngeloXRT issued server command: /tpa Rghost1700
-[00:09:33] [Server thread/INFO]: Rghost1700 issued server command: /tpaccept
-[00:09:41] [Server thread/INFO]: AngeloXRT issued server command: /tpa Rghost1700
-[00:09:45] [Server thread/INFO]: Rghost1700 issued server command: /tpaccept
-[00:09:51] [Async Chat Thread - #2/INFO]: [Not Secure] <AngeloXRT> holy fuck
-[00:10:02] [Async Chat Thread - #3/INFO]: [Not Secure] <AngeloXRT> wenas nopches gente de caracas
-[00:10:04] [Server thread/INFO]: AngeloXRT has made the advancement [Isn't It Iron Pick]
-[00:10:08] [Async Chat Thread - #4/INFO]: [Not Secure] <AngeloXRT> thx
-[00:10:17] [Async Chat Thread - #3/INFO]: [Not Secure] <Rghost1700> mi casa esta para alla
-[00:10:17] [Async Chat Thread - #4/INFO]: [Not Secure] <AngeloXRT> que hacias? xd
-[00:10:22] [Async Chat Thread - #3/INFO]: [Not Secure] <Rghost1700> subiendo esa montaña
-[00:10:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Rghost1700> me peleaba con un ahogado
-[00:10:50] [Async Chat Thread - #3/INFO]: [Not Secure] <AngeloXRT> y supongo que perdiste
-[00:10:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Rghost1700> no
-[00:12:33] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> villa vive en la villa
-[00:12:46] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> JAJA chistarros
-[00:12:49] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> xD
-[00:12:49] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> xd
-[00:12:57] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> abajo hay una cueva
-[00:13:04] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> :o
-[00:13:14] [Async Chat Thread - #5/INFO]: [Not Secure] <AngeloXRT> ya sé donde viviré en los proximos 3 dias entonces xd
-[00:13:18] [Server thread/INFO]: AngeloXRT has made the advancement [Suit Up]
-[00:13:24] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> thx
-[00:13:27] [Async Chat Thread - #5/INFO]: [Not Secure] <AngeloXRT> nono
-[00:13:30] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> tranquilo
-[00:13:37] [Async Chat Thread - #5/INFO]: [Not Secure] <AngeloXRT> gracias
-[00:14:21] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> hay un comando que es para que pongas un tp a tu base cuando tengas
-[00:14:27] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> es /sethome
-[00:14:31] [Async Chat Thread - #5/INFO]: [Not Secure] <AngeloXRT> ok
-[00:14:35] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> gracias
-[00:15:02] [Server thread/INFO]: AngeloXRT has made the advancement [Monster Hunter]
-[00:15:04] [Server thread/INFO]: AngeloXRT has made the advancement [Stone Age]
-[00:15:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> necesito andesita
-[00:15:46] [Async Chat Thread - #6/INFO]: [Not Secure] <AngeloXRT> material pa´ feo
-[00:15:58] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> no
-[00:16:10] [Server thread/INFO]: AngeloXRT has made the advancement [Getting an Upgrade]
-[00:16:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Rghost1700> csm justo consigo y se rompe el picp
-[00:16:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Rghost1700> pico
-[00:28:00] [Server thread/INFO]: Villager EntityVillager['Villager'/211, uuid='73fe2ec7-34eb-4c91-8063-6e826a03ff0c', l='ServerLevel[world]', x=-1315.43, y=115.00, z=-1962.38, cpos=[-83, -123], tl=170699, v=true] died, message: 'Villager was slain by Zombie'
-[00:31:55] [Server thread/INFO]: AngeloXRT has made the advancement [Acquire Hardware]
-[00:39:51] [Async Chat Thread - #7/INFO]: [Not Secure] <AngeloXRT> encontre algo xd
-[00:39:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Rghost1700> que cosa xd
-[00:40:05] [Async Chat Thread - #7/INFO]: [Not Secure] <AngeloXRT> sabes el bioma del warden
-[00:40:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Rghost1700> uh
-[00:40:19] [Async Chat Thread - #8/INFO]: [Not Secure] <Rghost1700> te van a coger
-[00:40:25] [Async Chat Thread - #8/INFO]: [Not Secure] <AngeloXRT> osea, solo veo la tierra que tiene el bioma
-[00:40:32] [Async Chat Thread - #8/INFO]: [Not Secure] <AngeloXRT> no se si sea el bioma completo
-[00:40:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Rghost1700> ah entonces estas cerca
-[00:41:08] [Async Chat Thread - #7/INFO]: [Not Secure] <AngeloXRT> cerca de donde?
-[00:41:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Rghost1700> de la ciudad antigua
-[00:41:34] [Async Chat Thread - #7/INFO]: [Not Secure] <AngeloXRT> siento que me voy a morir...
-[00:41:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Rghost1700> en efecto
-[00:43:01] [Server thread/INFO]: AngeloXRT has made the advancement [Not Today, Thank You]
-[00:45:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> un pana me conto
-[00:45:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Rghost1700> que una chama con la q estudiamos me tiene ganas, pero la chama es muy castrosa
-[00:46:04] [Async Chat Thread - #9/INFO]: [Not Secure] <AngeloXRT> :I
-[00:46:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> y es como berro
-[00:46:42] [Async Chat Thread - #9/INFO]: [Not Secure] <AngeloXRT> pero de que clase?
-[00:47:04] [Async Chat Thread - #11/INFO]: [Not Secure] <AngeloXRT> una de las de matematicas?
-[00:47:21] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> ah no
-[00:47:22] [Async Chat Thread - #11/INFO]: [Not Secure] <Rghost1700> XD
-[00:47:41] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> me refiero a que estudio conmigo y el
-[00:47:47] [Async Chat Thread - #11/INFO]: [Not Secure] <Rghost1700> o sea del colegio
-[00:47:47] [Async Chat Thread - #11/INFO]: [Not Secure] <AngeloXRT> ah coño
-[00:47:55] [Async Chat Thread - #9/INFO]: [Not Secure] <AngeloXRT> pos ahi no se xd
-[00:48:07] [Async Chat Thread - #11/INFO]: [Not Secure] <AngeloXRT> tu que opinas de la chama?
-[00:48:24] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> que esta bien, y si no fuera por su personalidad le daba
-[00:48:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Rghost1700> pero nop ademas ando empepao de victoria todabia
-[00:48:55] [Async Chat Thread - #9/INFO]: [Not Secure] <AngeloXRT> pero si solo piensas en darle pos que importa su personalidad? xd
-[00:49:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Rghost1700> importa muchisimo para mi
-[00:49:11] [Async Chat Thread - #9/INFO]: [Not Secure] <AngeloXRT> ni que la qk te fuera a hablar JAJAJJAJAJAJ
-[00:49:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Rghost1700> XD
-[00:49:45] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> en parte eso tienes razon, pero es que la chama es inmamable
-[00:50:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Rghost1700> malditos endermans
-[00:51:03] [Async Chat Thread - #9/INFO]: [Not Secure] <AngeloXRT> es gracioso que sea "inmamable" cuando probablemente tambien le fueras a mamar la qk
-[00:51:15] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> chamo
-[00:51:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Rghost1700> xdd
-[00:51:38] [Async Chat Thread - #12/INFO]: [Not Secure] <AngeloXRT> pero tienes un punto, si te importa la personalidad para eso es valido
-[00:51:50] [Async Chat Thread - #12/INFO]: [Not Secure] <AngeloXRT> y si todavia andas empepado pues no se puede hacer mucho
-[00:52:48] [Async Chat Thread - #9/INFO]: [Not Secure] <Rghost1700> pues si
-[00:52:55] [Async Chat Thread - #12/INFO]: [Not Secure] <AngeloXRT> CONSEGUI UNA ZANAHORIAAAAAAAAA
-[00:53:06] [Async Chat Thread - #13/INFO]: [Not Secure] <AngeloXRT> ahora si puedo vivir en la mina
-[00:53:06] [Async Chat Thread - #13/INFO]: [Not Secure] <Rghost1700> aparte no me imagino estando con la caraja y no soportarle la personalidad
-[00:54:09] [Async Chat Thread - #14/INFO]: [Not Secure] <AngeloXRT> Es que si hablamos de "estar" de cuadrar o pareja, pues coño, no, asco si no te gusta su personalidad
-[00:54:12] [Async Chat Thread - #14/INFO]: [Not Secure] <Rghost1700> te vas a hacer una cuevi casa
-[00:54:26] [Async Chat Thread - #15/INFO]: [Not Secure] <AngeloXRT> normalmente hago eso xd
-[00:54:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Rghost1700> no hablo de estar con ella para cuadrar, en caso de que ella quiera eso definitivamente no, no la quiero para eso
-[00:55:10] [Async Chat Thread - #15/INFO]: [Not Secure] <Rghost1700> y si ella me quiere para el metesaca
-[00:55:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Rghost1700> le digo que fino pues, pero honestamente seria como muy al grano para evitar su personalidad
-[00:56:42] [Async Chat Thread - #15/INFO]: [Not Secure] <Rghost1700> es ese tipo de carajas que siempre te vive retando y aparte es como castrosa nivel imprudente
-[00:56:42] [Async Chat Thread - #14/INFO]: [Not Secure] <AngeloXRT> bro, el pipi lo tienes tu, está en ti a quien se lo metes o no y es calido, si tu pipi necesita un vinculo sentimental, chevere
-[00:56:59] [Async Chat Thread - #15/INFO]: [Not Secure] <AngeloXRT> y si necesita que minimo te caiga bien, chevere
-[00:57:13] [Async Chat Thread - #14/INFO]: [Not Secure] <AngeloXRT> las que retan son divinas
-[00:57:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Rghost1700> que me caiga bien sobretodo
-[00:57:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Rghost1700> si pero ella lo lleva a lo ladilloso
-[00:57:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Rghost1700> y es lo que no me gusta
-[00:58:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Rghost1700> aparte yo soy bien mamaguevito
-[00:58:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Rghost1700> con esas amistades del colegio
-[00:59:24] [Async Chat Thread - #17/INFO]: [Not Secure] <AngeloXRT> tu eres de los que ve a sus compañeros de colegio en la calle y les pasa de largo? xd
-[00:59:53] [Async Chat Thread - #17/INFO]: [Not Secure] <Rghost1700> si
-[00:59:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Rghost1700> xd
-[01:01:02] [Server thread/INFO]: AngeloXRT has made the advancement [Diamonds!]
-[01:01:29] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> nada mas uno, nojoda
-[01:01:39] [Async Chat Thread - #19/INFO]: [Not Secure] <Rghost1700> pica al rededor
-[01:01:52] [Server thread/INFO]: [Not Secure] [Server] buenas
-[01:01:54] [Server thread/INFO]: [Not Secure] [Server] marico
-[01:01:57] [Server thread/INFO]: [Not Secure] [Server] no veo nada
-[01:01:59] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> no seas mamon, no puedo seguir bajando, otra vez me encontre la vaina de la ancient city
-[01:02:08] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> estas cooked
-[01:02:13] [Async Chat Thread - #19/INFO]: [Not Secure] <AngeloXRT> el servidor no ve, que arrecho
-[01:02:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> XD
-[01:02:34] [Async Chat Thread - #19/INFO]: [Not Secure] <AngeloXRT> la ia me sorprende cada vez mas
-[01:02:53] [Async Chat Thread - #19/INFO]: [Not Secure] <Rghost1700> pa q tu veas
-[01:02:57] [Async Chat Thread - #19/INFO]: [Not Secure] <Rghost1700> villa anda a dormi
-[01:02:59] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> no como el server
-[01:03:02] [Async Chat Thread - #19/INFO]: [Not Secure] <AngeloXRT> ese no ve xd
-[01:03:09] [Server thread/INFO]: [Not Secure] [Server] me dan ganas de operarme yo mismo el ojo
-[01:03:13] [Async Chat Thread - #19/INFO]: [Not Secure] <Rghost1700> badum tss
-[01:03:26] [Server thread/INFO]: [Not Secure] [Server] yo creo que me dieron mal la formula del ojo derecho
-[01:03:34] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> usa una cucharilla, sacate el ojo y lavalo con cloro y ya
-[01:04:10] [Server thread/INFO]: [Not Secure] [Server] de una
-[01:04:25] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> mi casa esta quedando bella
-[01:04:26] [Async Chat Thread - #19/INFO]: [Not Secure] <Rghost1700> a
-[01:04:34] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> angelo con una tnt: apoco si?
-[01:04:45] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> yo estoy pensando seriamente si meterme en esta vaina
-[01:04:56] [Server thread/INFO]: [Not Secure] [Server] Angelo? yo mismo te expropio la casa
-[01:05:01] [Server thread/INFO]: [Not Secure] [Server] robao
-[01:05:07] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> te recomiendo hacerte una azada y unas tijeras
-[01:05:14] [Async Chat Thread - #19/INFO]: [Not Secure] <AngeloXRT> en eso estoy
-[01:05:15] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> y fiumba
-[01:05:39] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> yo haciendo mi casa y la subtrama de angelo es sobrevivir al warden
-[01:05:48] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> tu que opinas de eso adrian
-[01:06:02] [Server thread/INFO]: [Not Secure] [Server] si tan solo adrian pudiera hablar
-[01:06:05] [Server thread/INFO]: [Not Secure] [Server] Xd
-[01:06:09] [Async Chat Thread - #19/INFO]: [Not Secure] <Rghost1700> pobre ser
-[01:06:38] [Server thread/INFO]: [Not Secure] [Server] si angelo no dice nada es que el warden le anda oliendo el culo
-[01:06:45] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> XD
-[01:06:55] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> ok, ya quite toda la tierra esta y no se extiende hacia una ancient city, me salve
-[01:06:59] [Async Chat Thread - #19/INFO]: [Not Secure] <AngeloXRT> por ahora
-[01:07:34] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> y si invitamos a paola
-[01:07:53] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> ta bien
-[01:08:05] [Async Chat Thread - #18/INFO]: [Not Secure] <AngeloXRT> deiker si se logro meter al server al final?
-[01:08:08] [Server thread/INFO]: [Not Secure] [Server] meto el plugin de bombas nucleares
-[01:08:23] [Server thread/INFO]: [Not Secure] [Server] deiker solo entraria si le pongo el plugin de barbero al server
-[01:08:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Rghost1700> nunca entro al server el pajuo ese
-[01:09:21] [User Authenticator #2/INFO]: UUID of player Kadel is 51ac9d5b-7a96-3715-bb0a-deb9fe780cb4
-[01:09:21] [Server thread/INFO]: Kadel joined the game
-[01:09:21] [Server thread/INFO]: Kadel[/127.117.178.56:34437] logged in with entity id 16247 at ([world]-1317.699999988079, 116.0, -1961.378426573552)
-[01:09:33] [Async Chat Thread - #20/INFO]: [Not Secure] <Kadel> si me muero, me saco el ojo derecho
-[01:09:37] [Async Chat Thread - #20/INFO]: [Not Secure] <Kadel> y lo lavo con ace
-[01:09:41] [Async Chat Thread - #21/INFO]: [Not Secure] <Rghost1700> sera
-[01:09:53] [Async Chat Thread - #21/INFO]: [Not Secure] <AngeloXRT> mielda, con ace, eso es tener plata
-[01:10:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> sabes que da dolor
-[01:10:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> tener un pantalon de diamante
-[01:10:46] [Async Chat Thread - #20/INFO]: [Not Secure] <AngeloXRT> el putazo que me dara el warden
-[01:10:59] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> con reparacion y irrompibilidad pero tiene maldicion de ligamiento
-[01:11:14] [Async Chat Thread - #21/INFO]: [Not Secure] <Kadel> un aldeano con p4
-[01:11:18] [Async Chat Thread - #20/INFO]: [Not Secure] <Kadel> te salva el juego
-[01:11:18] [Async Chat Thread - #21/INFO]: [Not Secure] <AngeloXRT> ya te lo pusiste?
-[01:11:22] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> no
-[01:11:23] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> xd
-[01:11:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> cuando lo mejore a netherita
-[01:11:34] [Async Chat Thread - #21/INFO]: [Not Secure] <Rghost1700> y le meta prote 4
-[01:11:51] [Async Chat Thread - #20/INFO]: [Not Secure] <AngeloXRT> tuve que quitar la musica escuche como un estomago retorciendose con full ganas de cagar
-[01:11:58] [Async Chat Thread - #21/INFO]: [Not Secure] <Rghost1700> villa farmeate unos libros ahi pues
-[01:12:11] [Async Chat Thread - #21/INFO]: [Not Secure] <Kadel> que estan explotando
-[01:12:24] [Async Chat Thread - #21/INFO]: [Not Secure] <Rghost1700> yo ando haciendo mi casa
-[01:12:52] [Async Chat Thread - #20/INFO]: [Not Secure] <AngeloXRT> mi primer dia y me voy a coger al warden
-[01:12:55] [Async Chat Thread - #20/INFO]: [Not Secure] <AngeloXRT> que emocion
-[01:13:05] [Async Chat Thread - #21/INFO]: [Not Secure] <Rghost1700> (sale mal)
-[01:13:07] [Async Chat Thread - #20/INFO]: [Not Secure] <Kadel> un grito sonico vendria bien
-[01:13:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Rghost1700> yo viendo como matan a angelo:
-[01:14:00] [Async Chat Thread - #21/INFO]: [Not Secure] <AngeloXRT> MAMAGUEVO
-[01:14:04] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> Xd
-[01:14:06] [Async Chat Thread - #21/INFO]: [Not Secure] <Rghost1700> XD
-[01:14:07] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> AAAAAAAAAAAAAHHHHHHHHH
-[01:14:09] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> corre
-[01:14:24] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> ya
-[01:14:27] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> fuck
-[01:14:44] [Async Chat Thread - #21/INFO]: [Not Secure] <AngeloXRT> el megafono que llama al warden me detecto
-[01:14:50] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> y se me oscurecio la vista
-[01:14:54] [Async Chat Thread - #21/INFO]: [Not Secure] <AngeloXRT> y escuche cosas feas
-[01:15:00] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> *llora*
-[01:15:02] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> ese era adrian
-[01:15:57] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> -1268 -17 -1932
-[01:15:59] [Server thread/INFO]: Kadel issued server command: /home
-[01:16:09] [Async Chat Thread - #23/INFO]: [Not Secure] <AngeloXRT> para el que quiera que lo abrace un negro gordo
-[01:16:18] [Async Chat Thread - #23/INFO]: [Not Secure] <Rghost1700> sapegato
-[01:16:23] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> cuanto lo calificas angelo
-[01:16:26] [Async Chat Thread - #23/INFO]: [Not Secure] <Kadel> ya que lo has probado
-[01:16:41] [Async Chat Thread - #23/INFO]: [Not Secure] <AngeloXRT> 3/10, el huevo lo tenia muy grande
-[01:16:53] [Async Chat Thread - #23/INFO]: [Not Secure] <Kadel> diavlo
-[01:17:37] [Async Chat Thread - #23/INFO]: [Not Secure] <AngeloXRT> ya ni se como salir de aqui
-[01:17:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> yo se como
-[01:17:52] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> solo se que me meti a una mina submarina y en algun momento llegue aqui
-[01:17:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> pero tiene un costo
-[01:18:20] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> si le metes un machetazo al warden, sales de una
-[01:18:29] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> tiene sentido
-[01:18:34] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> pero pierdes todo
-[01:18:39] [Async Chat Thread - #22/INFO]: [Not Secure] <Kadel> eso es lo que cobra
-[01:18:58] [Async Chat Thread - #22/INFO]: [Not Secure] <AngeloXRT> un yummy muy arrecho
-[01:21:35] [Async Chat Thread - #24/INFO]: [Not Secure] <Rghost1700> que coño haces villa}
-[01:21:45] [Async Chat Thread - #24/INFO]: [Not Secure] <Kadel> puenting
-[01:23:20] [Async Chat Thread - #26/INFO]: [Not Secure] <Rghost1700> le sabe
-[01:25:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Rghost1700> xdd
-[01:25:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Rghost1700> y este poco de aldeano aca
-[01:25:18] [Async Chat Thread - #29/INFO]: [Not Secure] <Kadel> van a sacrificar una vaca
-[01:25:23] [Async Chat Thread - #29/INFO]: [Not Secure] <Rghost1700> de pana
-[01:25:34] [Async Chat Thread - #29/INFO]: [Not Secure] <Rghost1700> literalmente son 3 y hay una vaca
-[01:26:34] [Async Chat Thread - #28/INFO]: [Not Secure] <AngeloXRT> sali en la aldea xd
-[01:26:46] [Async Chat Thread - #29/INFO]: [Not Secure] <Kadel> otra bomba
-[01:26:46] [Async Chat Thread - #29/INFO]: [Not Secure] <Rghost1700> XD
-[01:27:04] [Async Chat Thread - #29/INFO]: [Not Secure] <Rghost1700> a la verga
-[01:27:12] [Async Chat Thread - #29/INFO]: [Not Secure] <Rghost1700> mira esto
-[01:27:16] [Async Chat Thread - #28/INFO]: [Not Secure] <AngeloXRT> y eso que hice una curva xd
-[01:27:41] [Async Chat Thread - #28/INFO]: [Not Secure] <Rghost1700> que cojones
-[01:27:45] [Async Chat Thread - #29/INFO]: [Not Secure] <AngeloXRT> queria contigo xd
-[01:27:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Kadel> Xddd
-[01:27:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Rghost1700> xD
-[01:27:51] [Async Chat Thread - #30/INFO]: [Not Secure] <AngeloXRT> a mi me ignoro xd
-[01:27:58] [Async Chat Thread - #30/INFO]: [Not Secure] <Rghost1700> me salio mal el trolleo
-[01:28:26] [Server thread/INFO]: Kadel issued server command: /home
-[01:28:30] [Async Chat Thread - #29/INFO]: [Not Secure] <Kadel> el puenting funciona
-[01:28:45] [Async Chat Thread - #30/INFO]: [Not Secure] <Rghost1700> sobretodo
-[01:28:46] [Server thread/INFO]: Kadel issued server command: /home
-[01:29:23] [Server thread/INFO]: Kadel issued server command: /home
-[01:29:23] [Server thread/WARN]: Rghost1700 moved too quickly! -3.040095258860674,3.0654836694708862,-9.046240342524015
-[01:30:07] [Async Chat Thread - #31/INFO]: [Not Secure] <Rghost1700> no way
-[01:30:10] [Async Chat Thread - #31/INFO]: [Not Secure] <Rghost1700> aldeano zombie
-[01:31:25] [Async Chat Thread - #33/INFO]: [Not Secure] <Rghost1700> q pajuo
-[01:32:13] [Async Chat Thread - #34/INFO]: [Not Secure] <Kadel> menos mal puse el servidor en github
-[01:32:21] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> pq
-[01:32:21] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> estuvieran sufriendo con mi internet
-[01:32:26] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> mira mi ping
-[01:32:30] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> asi como la otra vez
-[01:32:33] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> 1
-[01:32:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> XDD
-[01:32:37] [Async Chat Thread - #34/INFO]: [Not Secure] <AngeloXRT> diablo
-[01:32:39] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> Pura calidad
-[01:32:47] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> a angelo lo veo volando
-[01:32:48] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> 5kbps
-[01:33:00] [Async Chat Thread - #35/INFO]: [Not Secure] <AngeloXRT> soy una vaina muy arrecha
-[01:33:04] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> CanTv el mejor
-[01:33:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> ni un misero diamante
-[01:34:08] [Server thread/INFO]: Rghost1700 was impaled on a stalagmite
-[01:34:13] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> malparida sea
-[01:34:16] [Async Chat Thread - #34/INFO]: [Not Secure] <AngeloXRT> xd
-[01:34:29] [Async Chat Thread - #34/INFO]: [Not Secure] <AngeloXRT> donde te empalaste? xd
-[01:34:30] [Async Chat Thread - #34/INFO]: [Not Secure] <Kadel> es que este mundo es potente
-[01:34:35] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> El mejor de la historia
-[01:34:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Kadel> eso lo envie hace 2 años luz
-[01:35:21] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> Angelo
-[01:35:26] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> tienes familia en barinas?
-[01:35:32] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> pa ponerte a plantar papas
-[01:35:47] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> mano, tantos lugares con agua para caerme y caigo en la estaca esa
-[01:35:58] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> rip 20 lvls
-[01:36:09] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> es una señal
-[01:36:13] [Async Chat Thread - #34/INFO]: [Not Secure] <AngeloXRT> tienes papas?
-[01:36:17] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> si
-[01:36:40] [Async Chat Thread - #35/INFO]: [Not Secure] <AngeloXRT> yo planto pues xd
-[01:36:51] [Server thread/INFO]: Rghost1700 issued server command: /tpa AngeloXRT
-[01:37:04] [Server thread/INFO]: AngeloXRT issued server command: /tpaccept
-[01:37:22] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> toma
-[01:37:29] [Async Chat Thread - #34/INFO]: [Not Secure] <Kadel> estan minando cripto con mi internet
-[01:37:31] [Async Chat Thread - #35/INFO]: [Not Secure] <AngeloXRT> no tengo espacio en el inventario xd
-[01:37:32] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> se las tire al pajuo de villa
-[01:37:55] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> robao
-[01:38:50] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> te voy a matar
-[01:39:08] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> XD
-[01:39:19] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> esta aprendiendo
-[01:39:26] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> a proteger los cofres
-[01:39:30] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> ingeniero cubico
-[01:40:16] [Server thread/INFO]: AngeloXRT has made the advancement [Sweet Dreams]
-[01:40:35] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> pana
-[01:40:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Rghost1700> pero ese puente no esta alineado con mi montaña
-[01:41:07] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> es de pura decoracion
-[01:41:12] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> pa mi casa
-[01:41:13] [Async Chat Thread - #38/INFO]: [Not Secure] <Rghost1700> que pajuo
-[01:41:22] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> aqui no somos funcionales
-[01:41:25] [Async Chat Thread - #38/INFO]: [Not Secure] <Rghost1700> angelo sabias que te puedes poner skin
-[01:41:33] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> ./skin pajuo
-[01:41:38] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> xdd}w
-[01:41:42] [Server thread/INFO]: Kadel issued server command: /home
-[01:41:53] [Async Chat Thread - #36/INFO]: [Not Secure] <AngeloXRT> pero tengo skin, el servidor no me la detecta?
-[01:41:57] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> nop
-[01:42:05] [Async Chat Thread - #36/INFO]: [Not Secure] <Kadel> a roger si
-[01:42:11] [Server thread/INFO]: AngeloXRT issued server command: /skin
-[01:42:20] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> pq me puse mi skin
-[01:42:27] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> a
-[01:42:31] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> con el comando
-[01:42:34] [Async Chat Thread - #36/INFO]: [Not Secure] <Kadel> ./skin AngeloXRT
-[01:42:41] [Server thread/INFO]: AngeloXRT issued server command: /skin AngeloXRT
-[01:43:04] [Server thread/INFO]: AngeloXRT issued server command: /skin edit
-[01:44:47] [Async Chat Thread - #39/INFO]: [Not Secure] <AngeloXRT> no me deja poner ese comando, dejame ver que hago
-[01:45:45] [Server thread/INFO]: Kadel fell from a high place
-[01:45:48] [Async Chat Thread - #41/INFO]: [Not Secure] <Rghost1700> XD
-[01:45:52] [Server thread/INFO]: Kadel issued server command: /bck
-[01:45:54] [Server thread/INFO]: Kadel issued server command: /back
-[01:45:56] [Async Chat Thread - #42/INFO]: [Not Secure] <Kadel> el puente funciona
-[01:46:04] [Async Chat Thread - #41/INFO]: [Not Secure] <Rghost1700> puente del suicidio
-[01:46:04] [Server thread/INFO]: AngeloXRT issued server command: /skin AngeloXRT
-[01:46:24] [Server thread/INFO]: AngeloXRT issued server command: /skin edit
-[01:46:26] [Server thread/WARN]: Kadel was kicked due to keepalive timeout!
-[01:46:26] [Server thread/INFO]: Kadel lost connection: Timed out
-[01:46:26] [Server thread/INFO]: Kadel left the game
-[01:47:43] [Server thread/INFO]: AngeloXRT issued server command: /skin search AngeloXRT
-[01:47:50] [Server thread/INFO]: [Not Secure] [Server] el puente funciona tan bien que hasta me saco del server
-[01:48:02] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.131.
-[01:48:02] [luckperms-command-executor/INFO]: > /lp user <user>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp group <group>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp track <track>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp log
-[01:48:02] [luckperms-command-executor/INFO]: > /lp sync
-[01:48:02] [luckperms-command-executor/INFO]: > /lp info
-[01:48:02] [luckperms-command-executor/INFO]: > /lp editor [type]
-[01:48:02] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
-[01:48:02] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
-[01:48:02] [luckperms-command-executor/INFO]: > /lp search <permission>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp networksync
-[01:48:02] [luckperms-command-executor/INFO]: > /lp import <file>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp export <file>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp reloadconfig
-[01:48:02] [luckperms-command-executor/INFO]: > /lp bulkupdate
-[01:48:02] [luckperms-command-executor/INFO]: > /lp translations
-[01:48:02] [luckperms-command-executor/INFO]: > /lp creategroup <group>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp listgroups
-[01:48:02] [luckperms-command-executor/INFO]: > /lp createtrack <track>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
-[01:48:02] [luckperms-command-executor/INFO]: > /lp listtracks
-[01:48:08] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
-[01:48:09] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
-[01:48:09] [luckperms-command-executor/INFO]: https://luckperms.net/editor/KGEVTdalwF
-[01:48:26] [luckperms-worker-7/INFO]: [LP] An editor window has connected, but it is not yet trusted.
-[01:48:26] [luckperms-worker-7/INFO]: [LP] (session id = cb58-7114, browser = Microsoft Edge on Windows)
-[01:48:26] [luckperms-worker-7/INFO]: [LP] If it was you, run /lp trusteditor cb58-7114 to trust the session!
-[01:48:33] [luckperms-command-executor/INFO]: [LP] The editor session has been marked as trusted.
-[01:48:33] [luckperms-command-executor/INFO]: [LP] In the future, connections from the same browser will be trusted automatically.
-[01:48:33] [luckperms-command-executor/INFO]: [LP] The plugin will now attempt to establish a connection with the editor...
-[01:48:34] [luckperms-worker-9/INFO]: [LP] Editor window connected successfully.
-[01:48:50] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> roger explicame por whatsapp como poner mi skin
-[01:48:53] [Async Chat Thread - #44/INFO]: [Not Secure] <AngeloXRT> pls
-[01:49:06] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> ./skin y el nombre de una cuenta premium y se te aplica
-[01:49:22] [luckperms-worker-9/INFO]: [LP] Changes have been received from the connected web editor session.
-[01:49:22] [luckperms-worker-9/INFO]: [LP] Web editor data was applied to group default successfully.
-[01:49:22] [luckperms-worker-9/INFO]: [LP] (4 additions and 0 deletions)
-[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.command.update.other (true)
-[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.ownskin (true)
-[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.command.search (true)
-[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.command.set.other (true)
-[01:49:28] [luckperms-worker-15/INFO]: [LP] Changes have been received from the connected web editor session.
-[01:49:28] [luckperms-worker-15/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
-[01:49:44] [Async Chat Thread - #44/INFO]: [Not Secure] <AngeloXRT> la vaina es que yo tengo una skin propia que yo mismo hice :/
-[01:49:51] [Async Chat Thread - #43/INFO]: [Not Secure] <Rghost1700> chales
-[01:49:59] [Server thread/INFO]: [Not Secure] [Server] pero premium o pirata
-[01:50:00] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> tienes cuenta en tlauncher?
-[01:50:08] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> tlauncher
-[01:50:27] [Server thread/INFO]: [Not Secure] [Server] para usar tu skin con el plugin siendo no premium tienes que subirla a minecraftskins
-[01:50:37] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> intenta ponerte la skin desde el launcher y asi creo que puedes al menos ver tu propia skin
-[01:51:05] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> ya la tengo desde el launcher, mira el grupo xd
-[01:51:21] [User Authenticator #3/INFO]: UUID of player Kadel is 51ac9d5b-7a96-3715-bb0a-deb9fe780cb4
-[01:51:21] [Server thread/INFO]: Kadel joined the game
-[01:51:21] [Server thread/INFO]: Kadel[/127.117.178.56:51651] logged in with entity id 23352 at ([world]-1349.5, 69.0, -1978.5)
-[01:51:44] [Async Chat Thread - #44/INFO]: [Not Secure] <Kadel> diablo me robaron los zapatos
-[01:51:50] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> XD
-[01:51:53] [Async Chat Thread - #44/INFO]: [Not Secure] <Kadel> pajuos
-[01:51:55] [Server thread/INFO]: Kadel issued server command: /home
-[01:51:59] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> eso es la tipica experiencia latina
-[01:52:03] [Async Chat Thread - #43/INFO]: [Not Secure] <Rghost1700> intenta lo que dijo villa
-[01:52:10] [Async Chat Thread - #44/INFO]: [Not Secure] <AngeloXRT> en eso estoy
-[01:53:50] [Server thread/INFO]: AngeloXRT issued server command: /skin search AngeloXRT
-[01:53:59] [Server thread/INFO]: AngeloXRT issued server command: /skin AngeloXRT
-[01:54:15] [Async Chat Thread - #45/INFO]: [Not Secure] <AngeloXRT> aja, ya subi mi skin a minecraftskins
-[01:54:17] [Async Chat Thread - #46/INFO]: [Not Secure] <AngeloXRT> ahora?
-[01:54:21] [Async Chat Thread - #45/INFO]: [Not Secure] <Kadel> donde dice image link
-[01:54:23] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> le das
-[01:54:25] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> y copias la url
-[01:54:30] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> y ahi pones /skin y la url
-[01:54:59] [Server thread/INFO]: AngeloXRT issued server command: /skin https://www.minecraftskins.com/uploads/skins/2025/03/15/angeloxrt-23118798.png?v778
-[01:55:29] [Async Chat Thread - #46/INFO]: [Not Secure] <AngeloXRT> ya
-[01:55:33] [Async Chat Thread - #45/INFO]: [Not Secure] <AngeloXRT> gracias
-[01:55:38] [Server thread/INFO]: Rghost1700 issued server command: /back
-[01:55:51] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> denada
-[01:55:56] [Async Chat Thread - #45/INFO]: [Not Secure] <Kadel> son 50 dolares
-[01:56:12] [Async Chat Thread - #46/INFO]: [Not Secure] <AngeloXRT> 50 coñazos te voy a dar para que te caigas de tu pinche puente
-[01:56:17] [Async Chat Thread - #45/INFO]: [Not Secure] <Kadel> tremendo
-[01:56:46] [Server thread/INFO]: Rghost1700 issued server command: /back
-[01:56:50] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> puro water drop
-[01:57:13] [Async Chat Thread - #46/INFO]: [Not Secure] <Rghost1700> tangamandapio
-[02:01:45] [Server thread/WARN]: Player Rghost1700 just tried to change non-editable sign
-[02:03:42] [Async Chat Thread - #47/INFO]: [Not Secure] <Rghost1700> qn tiene roca de sobra
-[02:04:02] [Async Chat Thread - #47/INFO]: [Not Secure] <AngeloXRT> tengo 3 stacks
-[02:04:06] [Async Chat Thread - #48/INFO]: [Not Secure] <AngeloXRT> te sirve?
-[02:04:11] [Async Chat Thread - #48/INFO]: [Not Secure] <Rghost1700> sep
-[02:04:39] [Async Chat Thread - #48/INFO]: [Not Secure] <AngeloXRT> donde estas?
-[02:04:52] [Async Chat Thread - #48/INFO]: [Not Secure] <Rghost1700> ahora si se teve
-[02:04:54] [Async Chat Thread - #47/INFO]: [Not Secure] <Rghost1700> la skin
-[02:05:03] [Async Chat Thread - #47/INFO]: [Not Secure] <AngeloXRT> pelfesto
-[02:05:10] [Async Chat Thread - #47/INFO]: [Not Secure] <Rghost1700> regalame 3 papas
-[02:05:14] [Async Chat Thread - #47/INFO]: [Not Secure] <Rghost1700> que te di todas las que tenia
-[02:05:19] [Async Chat Thread - #47/INFO]: [Not Secure] <Rghost1700> ty
-[02:05:23] [Async Chat Thread - #47/INFO]: [Not Secure] <AngeloXRT> toma mas
-[02:05:34] [Async Chat Thread - #48/INFO]: [Not Secure] <AngeloXRT> ahora las planto
-[02:06:05] [Server thread/INFO]: Rghost1700 issued server command: /home
-[02:06:06] [Async Chat Thread - #48/INFO]: [Not Secure] <Kadel> viste como si funciona el puenting
-[02:06:15] [Async Chat Thread - #48/INFO]: [Not Secure] <Rghost1700> si
-[02:07:19] [Async Chat Thread - #49/INFO]: [Not Secure] <Kadel> la casa de angelo es una vagina de montaña
-[02:07:20] [Async Chat Thread - #49/INFO]: [Not Secure] <Kadel> tremendo
-[02:07:29] [Async Chat Thread - #49/INFO]: [Not Secure] <AngeloXRT> esto no es mi casa xd
-[02:07:34] [Async Chat Thread - #50/INFO]: [Not Secure] <Rghost1700> qn hambre tiene pan piensa
-[02:07:36] [Async Chat Thread - #50/INFO]: [Not Secure] <AngeloXRT> aqui voy a plantar las papas
-[02:07:38] [Async Chat Thread - #50/INFO]: [Not Secure] <Kadel> Xd
-[02:07:42] [Async Chat Thread - #49/INFO]: [Not Secure] <Rghost1700> marico
-[02:07:43] [Async Chat Thread - #49/INFO]: [Not Secure] <Rghost1700> pero
-[02:07:48] [Async Chat Thread - #51/INFO]: [Not Secure] <Rghost1700> cagaste toda la vista
-[02:07:51] [Async Chat Thread - #51/INFO]: [Not Secure] <AngeloXRT> hazme caso
-[02:07:53] [Async Chat Thread - #50/INFO]: [Not Secure] <AngeloXRT> ya va
-[02:08:01] [Async Chat Thread - #49/INFO]: [Not Secure] <Kadel> ya veo yo como lo arreglo
-[02:08:22] [Async Chat Thread - #49/INFO]: [Not Secure] <AngeloXRT> estoy empezando el proyecto, denme chance
-[02:08:36] [Async Chat Thread - #49/INFO]: [Not Secure] <Kadel> Greyde te hubiera echo ahcerlo 5 veces
-[02:09:08] [Async Chat Thread - #50/INFO]: [Not Secure] <AngeloXRT> xd
-[02:10:14] [Server thread/INFO]: Villager EntityVillager['Villager'/219, uuid='dc08c3c0-1f65-4323-87d2-5a404b823cfc', l='ServerLevel[world]', x=-1358.70, y=121.00, z=-1892.30, cpos=[-85, -119], tl=287924, v=true] died, message: 'Villager was slain by Zombie'
-[02:10:22] [Server thread/INFO]: Villager EntityVillager['Villager'/230, uuid='924ec020-1df3-46dc-99c1-d4bc4e4cdd8f', l='ServerLevel[world]', x=-1358.18, y=121.00, z=-1892.30, cpos=[-85, -119], tl=286808, v=true] died, message: 'Villager was slain by Zombie'
-[02:10:29] [Server thread/INFO]: Villager EntityVillager['Nitwit'/229, uuid='7eb3da63-b423-44e2-8e29-508626ea2ffa', l='ServerLevel[world]', x=-1357.60, y=121.00, z=-1892.30, cpos=[-85, -119], tl=286110, v=true] died, message: 'Nitwit was slain by Zombie'
-[02:11:32] [Async Chat Thread - #52/INFO]: [Not Secure] <Kadel> una vaca dando vueltas
-[02:20:02] [Async Chat Thread - #54/INFO]: [Not Secure] <Rghost1700> ese puente parece el de
-[02:20:11] [Async Chat Thread - #54/INFO]: [Not Secure] <Rghost1700> el del metro que nunca terminaron
-[02:20:18] [Async Chat Thread - #54/INFO]: [Not Secure] <Kadel> ese mismo es
-[02:22:34] [Async Chat Thread - #56/INFO]: [Not Secure] <Kadel> albañil profesional
-[02:26:43] [Server thread/INFO]: Kadel issued server command: /home
-[02:41:25] [Async Chat Thread - #58/INFO]: [Not Secure] <Kadel> as{i se queda el puente
-[02:41:40] [Async Chat Thread - #58/INFO]: [Not Secure] <Rghost1700> increible
-[02:41:45] [Async Chat Thread - #58/INFO]: [Not Secure] <Kadel> como el del metro
-[02:42:55] [Server thread/INFO]: Kadel issued server command: /home
-[02:48:11] [Async Chat Thread - #60/INFO]: [Not Secure] <Rghost1700> provoca disparate
-[02:48:24] [Async Chat Thread - #60/INFO]: [Not Secure] <Kadel> te epgo un hachazo
-[02:48:29] [Async Chat Thread - #60/INFO]: [Not Secure] <Kadel> en toda la jeta
-[02:48:47] [Server thread/INFO]: Kadel issued server command: /home
-[02:50:14] [Server thread/INFO]: Kadel issued server command: /home}
-[02:50:16] [Server thread/INFO]: Kadel issued server command: /home
-[02:52:26] [Server thread/INFO]: Rghost1700 fell from a high place
-[02:52:29] [Async Chat Thread - #62/INFO]: [Not Secure] <Kadel> lo vi
-[02:52:32] [Async Chat Thread - #63/INFO]: [Not Secure] <Kadel> en HD
-[02:52:34] [Async Chat Thread - #63/INFO]: [Not Secure] <Kadel> y encima le roban
-[02:52:35] [Async Chat Thread - #63/INFO]: [Not Secure] <Rghost1700> me salio mal
-[02:52:36] [Async Chat Thread - #63/INFO]: [Not Secure] <Kadel> que pajuo
-[02:52:39] [Server thread/INFO]: Rghost1700 issued server command: /back
-[02:52:52] [Async Chat Thread - #63/INFO]: [Not Secure] <Kadel> el zombie de vaina te chorea
-[02:53:22] [Async Chat Thread - #62/INFO]: [Not Secure] <Rghost1700> xd
-[02:59:39] [Server thread/WARN]: AngeloXRT moved too quickly! -8.385455739066629,5.5813359922251635,-0.14248648696275268
-[03:06:50] [Async Chat Thread - #64/INFO]: [Not Secure] <Kadel> puente aduana
-[03:06:53] [User Authenticator #4/INFO]: UUID of player Salchipapa264 is f1d1bff3-cbc3-3a64-ad96-0ea0c7bc6c19
-[03:06:53] [Server thread/INFO]: Salchipapa264 joined the game
-[03:06:53] [Server thread/INFO]: Salchipapa264[/127.249.201.158:36737] logged in with entity id 35274 at ([world]-60.5, 64.0, -71.5)
-[03:07:01] [Async Chat Thread - #64/INFO]: [Not Secure] <Kadel> el que cruze me debe 10 dolares
-[03:07:11] [Async Chat Thread - #64/INFO]: [Not Secure] <Salchipapa264> todos chupenlo
-[03:07:25] [Async Chat Thread - #64/INFO]: [Not Secure] <AngeloXRT> no se quien eres pero eres rolo de marico
-[03:07:30] [Async Chat Thread - #64/INFO]: [Not Secure] <AngeloXRT> fokiu .I.
-[03:07:34] [Async Chat Thread - #64/INFO]: [Not Secure] <Kadel> deiker pajuo e mielda
-[03:07:57] [Async Chat Thread - #64/INFO]: [Not Secure] <Salchipapa264> epa que insulto que me digan deiker
-[03:08:08] [Async Chat Thread - #65/INFO]: [Not Secure] <Kadel> durisimo
-[03:08:12] [Async Chat Thread - #65/INFO]: [Not Secure] <AngeloXRT> es Paola
-[03:08:15] [Async Chat Thread - #65/INFO]: [Not Secure] <AngeloXRT> xd
-[03:08:17] [Async Chat Thread - #65/INFO]: [Not Secure] <Kadel> Xd
-[03:08:33] [Async Chat Thread - #65/INFO]: [Not Secure] <Kadel> angelo dame las patatas
-[03:08:39] [Async Chat Thread - #65/INFO]: [Not Secure] <Kadel> me estas matando de hambre
-[03:08:45] [Async Chat Thread - #65/INFO]: [Not Secure] <AngeloXRT> te voy a dar un par de coñazod
-[03:08:49] [Async Chat Thread - #65/INFO]: [Not Secure] <Kadel> mmgvo
-[03:08:51] [Async Chat Thread - #65/INFO]: [Not Secure] <AngeloXRT> estan plantadas
-[03:08:52] [Async Chat Thread - #65/INFO]: [Not Secure] <Salchipapa264> donde estan?
-[03:08:57] [Async Chat Thread - #65/INFO]: [Not Secure] <Salchipapa264> para no ir
-[03:09:17] [Async Chat Thread - #65/INFO]: [Not Secure] <AngeloXRT> -1323 114 -1935
-[03:10:59] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> q se haga tp
-[03:11:14] [Server thread/INFO]: AngeloXRT was slain by Kadel
-[03:11:25] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> Xd
-[03:11:28] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> el poderoso lag
-[03:11:28] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> pero cual es la violencia
-[03:11:55] [Server thread/INFO]: Kadel was shot by Rghost1700
-[03:11:57] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> XDDDDDDD
-[03:12:01] [Server thread/INFO]: Kadel issued server command: /back
-[03:12:05] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> DIablo que rata
-[03:12:18] [Async Chat Thread - #67/INFO]: [Not Secure] <Rghost1700> no sabia q estabas a 1
-[03:12:27] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> solo queria tirarte del puente
-[03:12:28] [Async Chat Thread - #66/INFO]: [Not Secure] <AngeloXRT> dame el stack de losas y el hacha
-[03:12:30] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> paola donde estas
-[03:13:06] [Async Chat Thread - #66/INFO]: [Not Secure] <Salchipapa264> cerca
-[03:13:11] [Server thread/INFO]: Kadel issued server command: /home
-[03:13:25] [Async Chat Thread - #67/INFO]: [Not Secure] <Kadel> el tp est{a a 5 dolares
-[03:13:32] [Async Chat Thread - #67/INFO]: [Not Secure] <Rghost1700> nawebona
-[03:13:46] [Async Chat Thread - #67/INFO]: [Not Secure] <Kadel> hay que mantener el server
-[03:14:24] [Async Chat Thread - #66/INFO]: [Not Secure] <Salchipapa264> yo se caminar, tranquilo
-[03:14:44] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> se puede hacer tp si te ladillas
-[03:15:23] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> ya casi llega el metro a tu casa
-[03:15:25] [Server thread/INFO]: Rghost1700 fell from a high place
-[03:15:29] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> nojoda
-[03:15:31] [Server thread/INFO]: Rghost1700 issued server command: /back
-[03:15:34] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> por eso mismo te llega el metro
-[03:15:38] [Async Chat Thread - #66/INFO]: [Not Secure] <AngeloXRT> vas a seguir cayendote?
-[03:15:41] [Async Chat Thread - #66/INFO]: [Not Secure] <AngeloXRT> nojoda chico
-[03:15:47] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> mamalo tu
-[03:15:51] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> y yo soy el que va lag
-[03:15:54] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> pendejo
-[03:16:23] [Async Chat Thread - #67/INFO]: [Not Secure] <Rghost1700> era para curarme la comida
-[03:16:29] [Async Chat Thread - #66/INFO]: [Not Secure] <Rghost1700> todo estaba planeado
-[03:16:30] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> y las piernas
-[03:16:34] [Async Chat Thread - #66/INFO]: [Not Secure] <Kadel> si dale
-[03:17:52] [Async Chat Thread - #68/INFO]: [Not Secure] <Kadel> voy a tener que pasar por tu casa
-[03:17:54] [Async Chat Thread - #68/INFO]: [Not Secure] <Kadel> y demolerla
-[03:18:00] [Async Chat Thread - #68/INFO]: [Not Secure] <Kadel> el metro necesita pasar por ahi
-[03:18:43] [Async Chat Thread - #68/INFO]: [Not Secure] <Rghost1700> que arrecho
-[03:18:49] [Async Chat Thread - #69/INFO]: [Not Secure] <Rghost1700> esto todo antes era monte
-[03:18:58] [Async Chat Thread - #69/INFO]: [Not Secure] <Kadel> el puente da la vida
-[03:19:19] [Async Chat Thread - #68/INFO]: [Not Secure] <Kadel> se hizo real vivir abajo de un puente
-[03:20:34] [Async Chat Thread - #70/INFO]: [Not Secure] <Kadel> irga ese te iba directo a robar
-[03:20:44] [Async Chat Thread - #71/INFO]: [Not Secure] <Rghost1700> menos mal q puse carteles
-[03:20:50] [Async Chat Thread - #71/INFO]: [Not Secure] <AngeloXRT> estpy viendo como va quedando la granja
-[03:20:55] [Async Chat Thread - #71/INFO]: [Not Secure] <Kadel> pura gente de petare njda
-[03:20:58] [Async Chat Thread - #70/INFO]: [Not Secure] <Rghost1700> XD
-[03:21:09] [Async Chat Thread - #71/INFO]: [Not Secure] <AngeloXRT> le quito las losas?
-[03:21:13] [Async Chat Thread - #70/INFO]: [Not Secure] <Rghost1700> la subtrama de paola:
-[03:21:17] [Async Chat Thread - #70/INFO]: [Not Secure] <Kadel> rompela
-[03:21:17] [Async Chat Thread - #70/INFO]: [Not Secure] <Rghost1700> si
-[03:21:19] [Async Chat Thread - #70/INFO]: [Not Secure] <Rghost1700> quitalas
-[03:21:25] [Async Chat Thread - #71/INFO]: [Not Secure] <Kadel> esa subtrama debe estar potente
-[03:21:39] [Async Chat Thread - #71/INFO]: [Not Secure] <AngeloXRT> termina el puente para pasar
-[03:21:42] [Async Chat Thread - #71/INFO]: [Not Secure] <AngeloXRT> chavez 2
-[03:21:48] [Async Chat Thread - #70/INFO]: [Not Secure] <Kadel> mamame el wbo
-[03:21:52] [Async Chat Thread - #71/INFO]: [Not Secure] <Kadel> a que te cobro
-[03:21:54] [Async Chat Thread - #71/INFO]: [Not Secure] <Kadel> el pasaje
-[03:23:12] [Server thread/INFO]: Kadel issued server command: /home
-[03:23:18] [Async Chat Thread - #72/INFO]: [Not Secure] <Salchipapa264> pasen coordenadas otra vez
-[03:23:37] [Async Chat Thread - #73/INFO]: [Not Secure] <Rghost1700> -1322 115 -1989
-[03:24:07] [Server thread/INFO]: Kadel issued server command: /home
-[03:24:16] [Server thread/INFO]: Salchipapa264 fell from a high place
-[03:24:23] [Async Chat Thread - #72/INFO]: [Not Secure] <AngeloXRT> JAJAJJAJAJAJAJJAJAJJAJAJ
-[03:24:24] [Async Chat Thread - #72/INFO]: [Not Secure] <Kadel> hasta ahi llego la subtrama
-[03:24:25] [Async Chat Thread - #72/INFO]: [Not Secure] <Rghost1700> ASDJDSA
-[03:24:27] [Async Chat Thread - #72/INFO]: [Not Secure] <Salchipapa264> mejor nadota
-[03:24:29] [Server thread/INFO]: AngeloXRT fell from a high place
-[03:24:30] [Async Chat Thread - #72/INFO]: [Not Secure] <Rghost1700> escribe ese comando
-[03:24:33] [Async Chat Thread - #73/INFO]: [Not Secure] <Rghost1700> XDDDDD
-[03:24:33] [Async Chat Thread - #73/INFO]: [Not Secure] <Kadel> MIRA AL OTRO
-[03:24:34] [Async Chat Thread - #73/INFO]: [Not Secure] <Kadel> JAJAJAJSA
-[03:24:37] [Async Chat Thread - #72/INFO]: [Not Secure] <AngeloXRT> JAJAJAJAJAJAJAJJAJA
-[03:24:39] [Async Chat Thread - #72/INFO]: [Not Secure] <Salchipapa264> POR SAPOOOO
-[03:24:41] [Async Chat Thread - #72/INFO]: [Not Secure] <AngeloXRT> me dio envidia xd
-[03:24:48] [Server thread/INFO]: AngeloXRT issued server command: /back
-[03:25:03] [Async Chat Thread - #73/INFO]: [Not Secure] <Rghost1700> cuando estas en una competencia de caerse a lo pendejo pero tu rival es roger:
-[03:25:48] [Server thread/INFO]: Salchipapa264 issued server command: /tpa
-[03:28:37] [Async Chat Thread - #74/INFO]: [Not Secure] <AngeloXRT> roger, y ahora sin las losas?
-[03:28:45] [Async Chat Thread - #75/INFO]: [Not Secure] <Kadel> coño tampoco es pa suicidarte el puente
-[03:28:46] [Async Chat Thread - #74/INFO]: [Not Secure] <Rghost1700> mejor
-[03:29:01] [Async Chat Thread - #74/INFO]: [Not Secure] <Rghost1700> se ve menos forzao
-[03:34:23] [Async Chat Thread - #76/INFO]: [Not Secure] <Kadel> pajuo me robaste las patats que cocine
-[03:34:33] [Async Chat Thread - #77/INFO]: [Not Secure] <AngeloXRT> que vaina es?
-[03:35:39] [Async Chat Thread - #78/INFO]: [Not Secure] <Kadel> hace falta piedra
-[03:35:47] [Async Chat Thread - #79/INFO]: [Not Secure] <Rghost1700> toma
-[03:36:47] [Async Chat Thread - #80/INFO]: [Not Secure] <AngeloXRT> donde estas villa?
-[03:36:53] [Async Chat Thread - #80/INFO]: [Not Secure] <Kadel> abajo del puente
-[03:36:57] [Async Chat Thread - #81/INFO]: [Not Secure] <Rghost1700> como en la vida real
-[03:36:59] [Async Chat Thread - #81/INFO]: [Not Secure] <Rghost1700> omg
-[03:37:02] [Async Chat Thread - #81/INFO]: [Not Secure] <Kadel> mmgvo
-[03:38:07] [Async Chat Thread - #82/INFO]: [Not Secure] <Rghost1700> paola sigues viva?
-[03:38:25] [Async Chat Thread - #83/INFO]: [Not Secure] <Kadel> está peleando con 78 zombies
-[03:39:51] [Server thread/INFO]: AngeloXRT lost connection: Disconnected
-[03:39:51] [Server thread/INFO]: AngeloXRT left the game
-[03:40:36] [Server thread/INFO]: Kadel issued server command: /home
-[03:43:10] [Async Chat Thread - #84/INFO]: [Not Secure] <Kadel> te van a secuestrar roger
-[03:43:20] [Async Chat Thread - #84/INFO]: [Not Secure] <Rghost1700> seria justicia
-[03:44:18] [Server thread/WARN]: Rejecting UseItemOnPacket from Kadel: Location (-1337.0, 114.61756932735443, -2017.4545717835426) too far away from hit block BlockPosition{x=-1347, y=114, z=-2018}.
-[03:44:19] [Server thread/WARN]: Rejecting UseItemOnPacket from Kadel: Location (-1337.0, 114.5650247335434, -2017.4545717835426) too far away from hit block BlockPosition{x=-1347, y=114, z=-2018}.
-[03:44:22] [User Authenticator #5/INFO]: UUID of player AngeloXRT is 4f950e56-b8e7-31f0-8352-792a8b5ea0a9
-[03:44:22] [Server thread/INFO]: AngeloXRT joined the game
-[03:44:22] [Server thread/INFO]: AngeloXRT[/127.76.118.210:50891] logged in with entity id 51366 at ([world]-1325.1667731049695, 113.0, -1925.6308106006138)
-[03:45:00] [Server thread/INFO]: AngeloXRT issued server command: /skin https://www.minecraftskins.com/uploads/skins/2025/03/15/angeloxrt-23118798.png?v778
-[03:45:06] [Server thread/INFO]: Salchipapa264 has made the advancement [Isn't It Iron Pick]
-[03:45:27] [Server thread/INFO]: AngeloXRT issued server command: /ski
-[03:45:32] [Server thread/INFO]: AngeloXRT issued server command: /skins
-[03:45:58] [Server thread/INFO]: AngeloXRT issued server command: /skin
-[03:46:02] [Server thread/INFO]: AngeloXRT issued server command: /skin help skin clear
-[03:46:16] [Server thread/INFO]: AngeloXRT issued server command: /skin clear
-[03:46:27] [Server thread/INFO]: AngeloXRT lost connection: Disconnected
-[03:46:27] [Server thread/INFO]: AngeloXRT left the game
-[03:46:29] [User Authenticator #6/INFO]: UUID of player AngeloXRT is 4f950e56-b8e7-31f0-8352-792a8b5ea0a9
-[03:46:29] [Server thread/INFO]: AngeloXRT joined the game
-[03:46:29] [Server thread/INFO]: AngeloXRT[/127.76.118.210:45207] logged in with entity id 51677 at ([world]-1315.662961774981, 118.0, -1925.7046562252153)
-[03:46:45] [Server thread/INFO]: AngeloXRT issued server command: /skin
-[03:46:49] [Server thread/INFO]: AngeloXRT issued server command: /skin help skin undo
-[03:46:59] [Server thread/INFO]: AngeloXRT issued server command: /skin undo
-[03:47:44] [Server thread/INFO]: AngeloXRT issued server command: /skin update
-[03:48:07] [Server thread/INFO]: AngeloXRT issued server command: /skin clear
-[03:48:14] [Server thread/INFO]: AngeloXRT issued server command: /skin clear
-[03:48:44] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> villa
-[03:48:50] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> como tengo la skin?
-[03:48:52] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> te sacaron la skin
-[03:48:55] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> estas peruano
-[03:48:57] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> tengo a steve?
-[03:49:01] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> no, a un negro
-[03:49:09] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> wtf
-[03:49:19] [Server thread/INFO]: AngeloXRT issued server command: /skin https://www.minecraftskins.com/uploads/skins/2025/03/15/angeloxrt-23118798.png?v778
-[03:49:23] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> ahora si
-[03:49:28] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> al enderman?
-[03:49:30] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> Si
-[03:49:41] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> yo no me veo asi :(
-[03:49:53] [Async Chat Thread - #87/INFO]: [Not Secure] <AngeloXRT> me veo como skin predeterminado de albertico777gamer
-[03:49:59] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> la skin del launcher no funciona
-[03:50:19] [Async Chat Thread - #86/INFO]: [Not Secure] <AngeloXRT> antes no me veian con esa skin ustedes, yo si me veia asi
-[03:50:22] [Async Chat Thread - #87/INFO]: [Not Secure] <AngeloXRT> pero x
-[03:50:26] [Server thread/INFO]: AngeloXRT was doomed to fall by Salchipapa264
-[03:50:31] [Async Chat Thread - #87/INFO]: [Not Secure] <AngeloXRT> JAJAJAJJAJAJJAJA
-[03:50:35] [Async Chat Thread - #86/INFO]: [Not Secure] <Rghost1700> pero
-[03:50:36] [Server thread/INFO]: AngeloXRT issued server command: /back
-[03:50:37] [Async Chat Thread - #86/INFO]: [Not Secure] <Kadel> asesina
-[03:50:42] [Async Chat Thread - #87/INFO]: [Not Secure] <Salchipapa264> JAJAJAJAJJA
-[03:51:02] [Async Chat Thread - #87/INFO]: [Not Secure] <Salchipapa264> bue
-[03:51:26] [Server thread/INFO]: Salchipapa264 has made the advancement [Stone Age]
-[03:52:34] [Server thread/INFO]: AngeloXRT lost connection: Disconnected
-[03:52:34] [Server thread/INFO]: AngeloXRT left the game
-[03:53:10] [Server thread/INFO]: Rghost1700 has made the advancement [Diamonds!]
-[03:53:27] [Async Chat Thread - #88/INFO]: [Not Secure] <Kadel> el 99% de los diamantes es mio
-[03:53:32] [Async Chat Thread - #88/INFO]: [Not Secure] <Rghost1700> webo
-[03:53:38] [Async Chat Thread - #88/INFO]: [Not Secure] <Kadel> es el cobro del puente
-[03:55:00] [Server thread/INFO]: Salchipapa264 was doomed to fall by Kadel
-[03:56:14] [Server thread/INFO]: Salchipapa264 has made the advancement [Monster Hunter]
-[03:56:48] [Server thread/INFO]: Kadel issued server command: /home
-[03:56:50] [Server thread/INFO]: Kadel issued server command: /home
-[04:00:20] [Async Chat Thread - #90/INFO]: [Not Secure] <Rghost1700> paola si o no
-[04:00:29] [Async Chat Thread - #90/INFO]: [Not Secure] <Salchipapa264> si
-[04:03:36] [Server thread/INFO]: Kadel issued server command: /home
-[04:03:53] [User Authenticator #7/INFO]: UUID of player AngeloXRT is 4f950e56-b8e7-31f0-8352-792a8b5ea0a9
-[04:03:53] [Server thread/INFO]: AngeloXRT joined the game
-[04:03:53] [Server thread/INFO]: AngeloXRT[/127.76.118.210:53669] logged in with entity id 54291 at ([world]-1327.202834950145, 115.0, -1974.1248236213346)
-[04:04:54] [Async Chat Thread - #92/INFO]: [Not Secure] <Rghost1700> muchachos si en una fiessta contratan a un hombre q esta mamado y se pone a bailar medio desnudo eso es un prostituto???
-[04:05:01] [Async Chat Thread - #92/INFO]: [Not Secure] <Rghost1700> me acaban de decir que no
-[04:05:11] [Async Chat Thread - #92/INFO]: [Not Secure] <Rghost1700> no entiendo a las mujeres
-[04:05:16] [Async Chat Thread - #92/INFO]: [Not Secure] <AngeloXRT> no lo es
-[04:05:21] [Async Chat Thread - #92/INFO]: [Not Secure] <Rghost1700> COMO NO
-[04:05:25] [Async Chat Thread - #93/INFO]: [Not Secure] <AngeloXRT> es un stripper
-[04:05:27] [Async Chat Thread - #93/INFO]: [Not Secure] <Kadel> y si solo está borracho
-[04:05:34] [Async Chat Thread - #92/INFO]: [Not Secure] <AngeloXRT> no es un prostituto
-[04:05:37] [Async Chat Thread - #92/INFO]: [Not Secure] <Rghost1700> es lo mismo
-[04:05:41] [Async Chat Thread - #92/INFO]: [Not Secure] <AngeloXRT> no es lo mismo
-[04:05:49] [Async Chat Thread - #92/INFO]: [Not Secure] <AngeloXRT> prostituto coge, stripper baila
-[04:06:02] [Async Chat Thread - #93/INFO]: [Not Secure] <Rghost1700> q sabes si hace las dos
-[04:06:20] [Async Chat Thread - #92/INFO]: [Not Secure] <AngeloXRT> pero eso no es lo que estas diciendo, pajuo
-[04:06:46] [Server thread/INFO]: Salchipapa264 lost connection: Disconnected
-[04:06:46] [Server thread/INFO]: Salchipapa264 left the game
-[04:06:51] [Async Chat Thread - #94/INFO]: [Not Secure] <Rghost1700> pajuo tu
-[04:08:15] [Async Chat Thread - #95/INFO]: [Not Secure] <Kadel> terminen el puente
-[04:08:20] [Async Chat Thread - #96/INFO]: [Not Secure] <Kadel> ya no presupuesto
-[04:08:24] [Async Chat Thread - #96/INFO]: [Not Secure] <Kadel> no hay
-[04:09:12] [Server thread/INFO]: Rghost1700 issued server command: /back
-[04:09:18] [Async Chat Thread - #95/INFO]: [Not Secure] <Rghost1700> no
-[04:09:53] [Async Chat Thread - #95/INFO]: [Not Secure] <AngeloXRT> no, estoy ocupado
-[04:10:59] [Async Chat Thread - #97/INFO]: [Not Secure] <Kadel> voy a meter el plugin de bombas nucleares
-[04:11:56] [Async Chat Thread - #97/INFO]: [Not Secure] <Rghost1700> oh no
-[04:15:52] [Async Chat Thread - #99/INFO]: [Not Secure] <Rghost1700> q sueño colega
-[04:16:15] [Async Chat Thread - #99/INFO]: [Not Secure] <AngeloXRT> yo no puedo dormir si todavia no tengo claro como hacer mi casa
-[04:21:09] [Async Chat Thread - #101/INFO]: [Not Secure] <Kadel> angelo, por si avaso, el portal a la dimension de cobblestone no existe
-[04:21:15] [Async Chat Thread - #101/INFO]: [Not Secure] <AngeloXRT> JAJAJJAJAJJA
-[04:21:26] [Async Chat Thread - #102/INFO]: [Not Secure] <AngeloXRT> raios
-[04:21:45] [Async Chat Thread - #101/INFO]: [Not Secure] <AngeloXRT> roger
-[04:21:57] [Async Chat Thread - #102/INFO]: [Not Secure] <AngeloXRT> voy a picar la diorita de tu mina de andesita xd
-[04:22:39] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[04:22:41] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[04:22:41] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[04:22:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:22:41] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:22:41] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
-[04:22:41] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.3
-[04:22:41] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[04:22:41] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
-[04:22:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
-[04:22:41] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[04:22:41] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[04:22:41] [Server thread/INFO]: [LuckPerms] Closing storage...
-[04:22:41] [Server thread/INFO]: [LuckPerms] Goodbye!
-[04:22:41] [Server thread/INFO]: Loaded 7 recipes
-[04:22:42] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Chunky-Bukkit-1.4.28.jar' in folder 'plugins'
+[20:04:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:04:37] [ServerMain/INFO]: Loaded 7 recipes
+[20:04:38] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:04:38] [Server thread/INFO]: Loading properties
+[20:04:38] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[20:04:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:04:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:04:38] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[20:04:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:04:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:04:38] [Server thread/INFO]: Generating keypair
+[20:04:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:04:39] [Server thread/INFO]: Using epoll channel type
+[20:04:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:04:39] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:04:39] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Chunky-Bukkit-1.4.28.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
+	... 9 more
+[20:04:39] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'FastMachines.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
+	... 9 more
+[20:04:39] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vRC - 37
+[20:04:39] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[20:04:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[20:04:40] [Server thread/INFO]: [SlimyRepair] Loading server plugin SlimyRepair vDev - 1
+[20:04:40] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[20:04:40] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.3
+[20:04:40] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[20:04:40] [Server thread/INFO]: [FluffyMachines] Loading server plugin FluffyMachines vDev - 8
+[20:04:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:04:40] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[20:04:40] [Server thread/INFO]:         __    
+[20:04:40] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[20:04:40] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:04:40] [Server thread/INFO]: 
+[20:04:40] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:04:40] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:04:41] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:04:41] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:04:41] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1666ms)
+[20:04:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[20:04:42] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:04:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[20:04:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:04:42] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[20:04:42] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[20:04:42] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[20:04:42] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:04:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material crafter, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_door, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_trapdoor, ignoring it
+[20:04:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:04:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:04:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:04:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:04:46] [Server thread/INFO]: Preparing level "world"
+[20:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:04:47] [Server thread/INFO]: Time elapsed: 220 ms
+[20:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:04:47] [Server thread/INFO]: Time elapsed: 54 ms
+[20:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:04:47] [Server thread/INFO]: Time elapsed: 68 ms
+[20:04:47] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 37
+[20:04:47] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[20:04:47] [Server thread/INFO]: [Slimefun] Creating directories...
+[20:04:47] [Server thread/INFO]: [Slimefun] Loading language files...
+[20:04:47] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:04:48] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[20:04:48] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, bg, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
+[20:04:48] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[20:04:48] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[20:04:48] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[20:04:48] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[20:04:48] [Server thread/INFO]: [Slimefun] Loading Tags...
+[20:04:48] [Server thread/INFO]: [Slimefun] Loading items...
+[20:04:49] [Server thread/INFO]: [Slimefun] Loading researches...
+[20:04:49] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[20:04:49] [Server thread/INFO]: [Slimefun] Registering listeners...
+[20:04:50] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[20:04:50] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 2.46s
+[20:04:50] [Server thread/INFO]: [SlimyRepair] Enabling SlimyRepair vDev - 1
+[20:04:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[20:04:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:04:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:04:50] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[20:04:50] [Server thread/INFO]: [Essentials] Using locale en
+[20:04:50] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:04:50] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:04:50] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[20:04:50] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20:04:50] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[20:04:50] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.3
+[20:04:50] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.20.1 (Core v1_20x)
+[20:04:50] [Server thread/INFO]: [FluffyMachines] Enabling FluffyMachines vDev - 8
+[20:04:51] [Server thread/INFO]: Running delayed init tasks
+[20:04:51] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:04:51] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #29
+[20:04:51] [Server thread/INFO]: [Slimefun] with a total of 19/19 chart(s)!
+[20:04:51] [Server thread/INFO]: [Slimefun] Metrics build #29 started.
+[20:04:51] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[20:04:51] [Server thread/INFO]: [Slimefun] Found 1,174 Recipes!
+[20:04:51] [Craft Scheduler Thread - 4 - FluffyMachines/INFO]: [FluffyMachines] FluffyMachines is already up to date!
+[20:04:51] [Craft Scheduler Thread - 3 - Slimefun/INFO]: [Slimefun] Slimefun is already up to date!
+[20:04:51] [Craft Scheduler Thread - 5 - SlimyRepair/INFO]: [SlimyRepair] SlimyRepair is already up to date!
+[20:04:51] [Server thread/INFO]: 
+[20:04:51] [Server thread/INFO]: ######################### - Slimefun vRC - 37 - #########################
+[20:04:51] [Server thread/INFO]: 
+[20:04:51] [Server thread/INFO]: Successfully loaded 607 Items and 258 Researches
+[20:04:51] [Server thread/INFO]: ( 555 Items from Slimefun, 52 Items from 2 Addons )
+[20:04:51] [Server thread/INFO]: 
+[20:04:51] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[20:04:51] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[20:04:51] [Server thread/INFO]: 
+[20:04:51] [Server thread/INFO]:  - Source Code:  https://github.com/Slimefun/Slimefun4
+[20:04:51] [Server thread/INFO]:  - Wiki:         https://github.com/Slimefun/Slimefun4/wiki
+[20:04:51] [Server thread/INFO]:  - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons
+[20:04:51] [Server thread/INFO]:  - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues
+[20:04:51] [Server thread/INFO]:  - Discord:      https://discord.gg/slimefun
+[20:04:51] [Server thread/INFO]: 
+[20:04:51] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[20:04:51] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:04:51] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:04:51] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[20:04:51] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[20:04:51] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:04:51] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 1ms)
+[20:04:51] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[20:04:51] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[20:04:51] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:04:51] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:04:51] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[20:04:51] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[20:04:51] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[20:04:51] [Server thread/INFO]: [dough: protection] Loaded Protection Module "BlockLocker v1.13"
+[20:04:51] [Server thread/INFO]: Done (13.714s)! For help, type "help"
+[20:04:51] [Server thread/INFO]: Timings Reset
+[20:05:12] [User Authenticator #0/INFO]: UUID of player Kadel is 51ac9d5b-7a96-3715-bb0a-deb9fe780cb4
+[20:05:12] [Server thread/INFO]: Kadel joined the game
+[20:05:12] [Server thread/INFO]: Kadel[/127.48.216.0:54537] logged in with entity id 89 at ([world]-1510.9062002121723, 88.0, -1859.752042033823)
+[20:05:30] [Server thread/INFO]: Kadel issued server command: /god
+[20:05:32] [Server thread/INFO]: Kadel issued server command: /fly
+[20:05:33] [Server thread/INFO]: Kadel issued server command: /fly
+[20:05:36] [Server thread/INFO]: Kadel issued server command: /deop Kadel
+[20:05:36] [Server thread/INFO]: [Kadel: Made Kadel no longer a server operator]
+[20:08:54] [Server thread/INFO]: Kadel issued server command: /home
+[20:10:45] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:10:48] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:10:48] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:10:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:10:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:10:48] [Server thread/INFO]: [FluffyMachines] Disabling FluffyMachines vDev - 8
+[20:10:48] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[20:10:48] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.3
+[20:10:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[20:10:48] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[20:10:48] [Server thread/INFO]: [SlimyRepair] Disabling SlimyRepair vDev - 1
+[20:10:48] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[20:10:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[20:10:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:10:48] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:10:48] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:10:48] [Server thread/INFO]: [Slimefun] Disabling Slimefun vRC - 37
+[20:10:48] [Server thread/INFO]: [Slimefun] Backed up Slimefun data to: 2025-03-15-20-10.zip
+[20:10:48] [Server thread/INFO]: Loaded 7 recipes
+[20:10:49] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Chunky-Bukkit-1.4.28.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
@@ -725,7 +282,7 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
 	... 17 more
-[04:22:42] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'FastMachines.jar' in folder 'plugins'
+[20:10:49] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'FastMachines.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
@@ -767,400 +324,385 @@ Caused by: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/li
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
 	... 17 more
-[04:22:42] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[04:22:42] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vRC - 37
-[04:22:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[04:22:42] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[04:22:42] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.3
-[04:22:42] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[04:22:42] [Server thread/INFO]: [FluffyMachines] Loading server plugin FluffyMachines vDev - 8
-[04:22:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:22:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[04:22:42] [Server thread/INFO]:         __    
-[04:22:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[04:22:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[04:22:42] [Server thread/INFO]: 
-[04:22:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[04:22:42] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[04:22:43] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[04:22:43] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[04:22:43] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 752ms)
-[04:22:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[04:22:43] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[04:22:43] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[04:22:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[04:22:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:22:44] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[04:22:44] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[04:22:44] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material crafter, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_door, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_trapdoor, ignoring it
-[04:22:44] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 37
-[04:22:44] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
-[04:22:44] [Server thread/INFO]: [Slimefun] Creating directories...
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading language files...
-[04:22:44] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.0
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:22:44] [Server thread/INFO]: [Slimefun] Loaded language "en"
-[04:22:44] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, bg, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
-[04:22:44] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
-[04:22:44] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] MetricsModule does not exist, downloading...
-[04:22:44] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading Tags...
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading items...
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Starting download of MetricsModule build: #29
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 20% (6890/59681 bytes)
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 40% (17914/59681 bytes)
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 60% (30316/59681 bytes)
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 80% (42414/59681 bytes)
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 100% (54816/59681 bytes)
-[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] Successfully downloaded MetricsModule build: #29
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading researches...
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
-[04:22:44] [Server thread/INFO]: [Slimefun] Registering listeners...
-[04:22:44] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
-[04:22:44] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 876ms
-[04:22:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[04:22:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[04:22:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[04:22:45] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[04:22:45] [Server thread/INFO]: [Essentials] Using locale en
-[04:22:45] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[04:22:45] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[04:22:45] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[04:22:45] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[04:22:45] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[04:22:45] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.3
-[04:22:45] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.20.1 (Core v1_20x)
-[04:22:45] [Server thread/INFO]: [FluffyMachines] Enabling FluffyMachines vDev - 8
-[04:22:45] [Server thread/INFO]: CONSOLE: Reload complete.
-[04:22:45] [Server thread/INFO]: Timings Reset
-[04:22:45] [Craft Scheduler Thread - 1238 - Essentials/INFO]: [Essentials] Fetching version information...
-[04:22:45] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #29
-[04:22:45] [Server thread/INFO]: [Slimefun] with a total of 19/19 chart(s)!
-[04:22:45] [Server thread/INFO]: [Slimefun] Metrics build #29 started.
-[04:22:45] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
-[04:22:45] [Server thread/INFO]: [Slimefun] Found 1,174 Recipes!
-[04:22:45] [Server thread/INFO]: 
-[04:22:45] [Server thread/INFO]: ######################### - Slimefun vRC - 37 - #########################
-[04:22:45] [Server thread/INFO]: 
-[04:22:45] [Server thread/INFO]: Successfully loaded 606 Items and 258 Researches
-[04:22:45] [Server thread/INFO]: ( 555 Items from Slimefun, 51 Items from 1 Addons )
-[04:22:45] [Server thread/INFO]: 
-[04:22:45] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
-[04:22:45] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
-[04:22:45] [Server thread/INFO]: 
-[04:22:45] [Server thread/INFO]:  - Source Code:  https://github.com/Slimefun/Slimefun4
-[04:22:45] [Server thread/INFO]:  - Wiki:         https://github.com/Slimefun/Slimefun4/wiki
-[04:22:45] [Server thread/INFO]:  - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons
-[04:22:45] [Server thread/INFO]:  - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues
-[04:22:45] [Server thread/INFO]:  - Discord:      https://discord.gg/slimefun
-[04:22:45] [Server thread/INFO]: 
-[04:22:45] [Craft Scheduler Thread - 1239 - FluffyMachines/INFO]: [FluffyMachines] FluffyMachines is already up to date!
-[04:22:45] [Craft Scheduler Thread - 1235 - Slimefun/INFO]: [Slimefun] Slimefun is already up to date!
-[04:22:45] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
-[04:22:45] [Server thread/INFO]: [Slimefun] This may take a long time...
-[04:22:45] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
-[04:22:45] [Server thread/INFO]: [Slimefun] This may take a long time...
-[04:22:45] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
-[04:22:45] [Server thread/INFO]: [Slimefun] This may take a long time...
-[04:22:45] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
-[04:22:45] [Server thread/INFO]: [dough: protection] This may happen more than once.
-[04:22:45] [Server thread/INFO]: [dough: protection] Loaded Protection Module "BlockLocker v1.13"
-[04:23:40] [Async Chat Thread - #101/INFO]: [Not Secure] <Kadel> no creo que dwayne johnson salga por ese portal de piedra
-[04:23:56] [Async Chat Thread - #102/INFO]: [Not Secure] <AngeloXRT> como que no?
-[04:24:20] [Async Chat Thread - #101/INFO]: [Not Secure] <Kadel> el puente desde la casa de roger parece un metro
-[04:24:49] [Async Chat Thread - #101/INFO]: [Not Secure] <AngeloXRT> no me he fijado
-[04:24:58] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
-[04:25:00] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
-[04:25:00] [luckperms-command-executor/INFO]: https://luckperms.net/editor/tasxWIwTXx
-[04:25:13] [luckperms-worker-9/INFO]: [LP] Editor window connected successfully.
-[04:25:41] [luckperms-worker-9/INFO]: [LP] Changes have been received from the connected web editor session.
-[04:25:41] [luckperms-worker-9/INFO]: [LP] Web editor data was applied to group default successfully.
-[04:25:41] [luckperms-worker-9/INFO]: [LP] (4 additions and 0 deletions)
-[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.command.open_guide (true)
-[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.command.guide (true)
-[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.stats (true)
-[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.command.search (true)
-[04:25:52] [Server thread/INFO]: Kadel issued server command: /sf guide
-[04:29:54] [Async Chat Thread - #103/INFO]: [Not Secure] <Kadel> estas en cueva?
-[04:30:05] [Async Chat Thread - #104/INFO]: [Not Secure] <AngeloXRT> si, en la que esta al lado de mis cofres
-[04:30:10] [Async Chat Thread - #104/INFO]: [Not Secure] <AngeloXRT> estoy picando diorita
-[04:30:11] [Server thread/INFO]: Kadel has made the advancement [Ice Bucket Challenge]
-[04:30:28] [Server thread/INFO]: Kadel has made the advancement [We Need to Go Deeper]
-[04:33:08] [Server thread/INFO]: Kadel has made the advancement [Those Were the Days]
-[04:34:06] [Server thread/INFO]: Kadel has made the advancement [War Pigs]
-[04:34:21] [Craft Scheduler Thread - 1246 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
-[04:46:41] [Async Chat Thread - #105/INFO]: [Not Secure] <Rghost1700> volvi
-[04:47:06] [Server thread/INFO]: Rghost1700 has made the advancement [Voluntary Exile]
-[04:48:06] [Async Chat Thread - #107/INFO]: [Not Secure] <Rghost1700> que es esto
-[04:48:07] [Server thread/INFO]: Kadel has made the advancement [Hidden in the Depths]
-[04:48:16] [Async Chat Thread - #107/INFO]: [Not Secure] <AngeloXRT> la entrada de mi casa
-[04:51:18] [Server thread/INFO]: Rghost1700 was slain by Vindicator
-[04:51:24] [Server thread/INFO]: Rghost1700 issued server command: /back
-[04:53:17] [Server thread/INFO]: Kadel issued server command: /home
-[04:53:37] [Async Chat Thread - #109/INFO]: [Not Secure] <Kadel> ole torero
-[04:54:12] [Async Chat Thread - #109/INFO]: [Not Secure] <Rghost1700> ala verga
-[04:54:43] [Async Chat Thread - #110/INFO]: [Not Secure] <AngeloXRT> roger
-[04:54:53] [Async Chat Thread - #110/INFO]: [Not Secure] <Rghost1700> q
-[04:54:55] [Async Chat Thread - #110/INFO]: [Not Secure] <AngeloXRT> por que dice invasion cerca de la aldea? xd
-[04:54:56] [Server thread/INFO]: Rghost1700 has completed the challenge [Hero of the Village]
-[04:54:56] [Server thread/INFO]: Kadel has completed the challenge [Hero of the Village]
-[04:55:04] [Async Chat Thread - #109/INFO]: [Not Secure] <Kadel> arreglao
-[04:55:08] [Async Chat Thread - #109/INFO]: [Not Secure] <Rghost1700> pq tenia bad omen
-[04:55:16] [Async Chat Thread - #109/INFO]: [Not Secure] <Kadel> tenias el periodo
-[04:55:50] [Async Chat Thread - #110/INFO]: [Not Secure] <Rghost1700> tu mama
-[04:56:01] [Async Chat Thread - #110/INFO]: [Not Secure] <Kadel> waos
-[04:56:30] [Async Chat Thread - #110/INFO]: [Not Secure] <Kadel> dame piedra
-[04:56:58] [Async Chat Thread - #109/INFO]: [Not Secure] <Rghost1700> piedrero
-[04:57:03] [Async Chat Thread - #109/INFO]: [Not Secure] <Kadel> pajuo
-[04:58:17] [Server thread/INFO]: Kadel issued server command: /home
-[04:59:46] [Server thread/INFO]: Kadel issued server command: /homes
-[05:01:31] [Server thread/INFO]: Kadel issued server command: /home
-[05:10:16] [Server thread/INFO]: Kadel issued server command: /home
-[05:10:18] [Server thread/INFO]: Rghost1700 has made the advancement [Ice Bucket Challenge]
-[05:14:29] [Server thread/INFO]: AngeloXRT was doomed to fall by Kadel using [Grandpas Walking Stick]
-[05:14:33] [Server thread/INFO]: Kadel issued server command: /home
-[05:14:39] [Async Chat Thread - #111/INFO]: [Not Secure] <Rghost1700> q
-[05:14:39] [Server thread/INFO]: AngeloXRT issued server command: /back
-[05:14:53] [Async Chat Thread - #112/INFO]: [Not Secure] <Kadel> el plugin de la bomba nuclear funciona
-[05:14:55] [Async Chat Thread - #112/INFO]: [Not Secure] <Rghost1700> que plugin metiste
-[05:15:04] [Server thread/INFO]: Rghost1700 issued server command: /plugins
-[05:15:29] [Async Chat Thread - #111/INFO]: [Not Secure] <AngeloXRT> se puso un palo con empuje, el marico ese
-[05:15:37] [Async Chat Thread - #111/INFO]: [Not Secure] <Kadel> me lo craftee
-[05:15:43] [Async Chat Thread - #112/INFO]: [Not Secure] <Rghost1700> ay vale q le gusta q le empujen el palo
-[05:15:44] [Async Chat Thread - #111/INFO]: [Not Secure] <Kadel> tambien te lo puedes hacer
-[05:16:41] [Async Chat Thread - #112/INFO]: [Not Secure] <Rghost1700> encontre otra aldea
-[05:18:59] [Async Chat Thread - #113/INFO]: [Not Secure] <Rghost1700> aldea pa mala
-[05:20:56] [Server thread/INFO]: Kadel issued server command: /sf guide
-[05:21:45] [Server thread/INFO]: Kadel issued server command: /sf guide
-[05:22:32] [Server thread/INFO]: Kadel issued server command: /home
-[05:24:21] [Craft Scheduler Thread - 1261 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
-[05:26:08] [Async Chat Thread - #115/INFO]: [Not Secure] <Kadel> trae bambu
-[05:27:49] [Async Chat Thread - #117/INFO]: [Not Secure] <Rghost1700> qn
-[05:27:52] [Async Chat Thread - #118/INFO]: [Not Secure] <Kadel> tu
-[05:27:56] [Async Chat Thread - #118/INFO]: [Not Secure] <Rghost1700> ando en una cueva
-[05:27:57] [Async Chat Thread - #117/INFO]: [Not Secure] <Rghost1700> xd
-[05:28:00] [Async Chat Thread - #117/INFO]: [Not Secure] <Kadel> njda
-[05:28:20] [Async Chat Thread - #118/INFO]: [Not Secure] <Rghost1700> ahora busco
-[05:28:26] [Async Chat Thread - #117/INFO]: [Not Secure] <Rghost1700> ando critico de minerales
-[05:29:00] [Async Chat Thread - #118/INFO]: [Not Secure] <Kadel> el único diente que no se le cayó a este dragon
-[05:29:35] [Async Chat Thread - #118/INFO]: [Not Secure] <AngeloXRT> xd
-[05:29:47] [Async Chat Thread - #117/INFO]: [Not Secure] <Kadel> en donde dice Useful Items
-[05:29:55] [Async Chat Thread - #118/INFO]: [Not Secure] <Kadel> el primero
-[05:30:43] [Server thread/INFO]: Rghost1700 issued server command: /slimefun backpack Rghost1700
-[05:30:45] [Async Chat Thread - #118/INFO]: [Not Secure] <Kadel> de ahí hice el palo Xd
-[05:30:51] [Server thread/INFO]: Rghost1700 issued server command: /slimefun backpack
-[05:31:19] [Server thread/INFO]: Rghost1700 issued server command: /home
-[05:31:26] [Async Chat Thread - #117/INFO]: [Not Secure] <AngeloXRT> mira tu
-[05:31:32] [Server thread/INFO]: Kadel issued server command: /sf backpack
-[05:31:37] [Async Chat Thread - #118/INFO]: [Not Secure] <AngeloXRT> como se obtiene este libro?
-[05:31:43] [Async Chat Thread - #118/INFO]: [Not Secure] <Kadel> ./sf guide
-[05:31:50] [Server thread/INFO]: AngeloXRT issued server command: /sf guide
-[05:32:07] [Async Chat Thread - #117/INFO]: [Not Secure] <AngeloXRT> despues lo reviso bien
-[05:32:16] [Server thread/INFO]: Rghost1700 issued server command: /sf guide
-[05:32:55] [Async Chat Thread - #118/INFO]: [Not Secure] <AngeloXRT> me la pela tu puerta bloqueada
-[05:33:14] [Async Chat Thread - #118/INFO]: [Not Secure] <Rghost1700> incibilizado
-[05:33:17] [Async Chat Thread - #117/INFO]: [Not Secure] <Rghost1700> e
-[05:33:37] [Async Chat Thread - #118/INFO]: [Not Secure] <Rghost1700> hay un gancho?
-[05:33:42] [Async Chat Thread - #118/INFO]: [Not Secure] <Kadel> si
-[05:34:21] [Craft Scheduler Thread - 1259 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 2 player(s)!
-[05:34:50] [Async Chat Thread - #119/INFO]: [Not Secure] <Kadel> si haces shift + click derecho puedes configurar que el libro no suelte fuegos artificiales
-[05:34:56] [Async Chat Thread - #119/INFO]: [Not Secure] <Kadel> ni salga la animacion de learning
-[05:36:21] [Async Chat Thread - #121/INFO]: [Not Secure] <Rghost1700> pero ya va no entiendo como se craftean las cosas
-[05:36:30] [Async Chat Thread - #121/INFO]: [Not Secure] <Kadel> maquinas
-[05:36:31] [Async Chat Thread - #122/INFO]: [Not Secure] <Kadel> ven
-[05:37:15] [Async Chat Thread - #121/INFO]: [Not Secure] <Kadel> esta es la primera
-[05:37:30] [Async Chat Thread - #122/INFO]: [Not Secure] <Rghost1700> pero
-[05:37:38] [Async Chat Thread - #121/INFO]: [Not Secure] <Rghost1700> waos
-[05:38:02] [Async Chat Thread - #122/INFO]: [Not Secure] <Kadel> y yo buscando cuero
-[05:38:03] [Async Chat Thread - #121/INFO]: [Not Secure] <Kadel> waos
-[05:38:14] [Async Chat Thread - #122/INFO]: [Not Secure] <Rghost1700> me pide oro xdd
-[05:38:23] [Server thread/INFO]: Rghost1700 issued server command: /home
-[05:38:33] [Async Chat Thread - #121/INFO]: [Not Secure] <Kadel> es una pepita de oro
-[05:39:48] [Server thread/INFO]: Rghost1700 issued server command: /back
-[05:39:55] [Server thread/INFO]: Rghost1700 issued server command: /back
-[05:40:23] [Async Chat Thread - #123/INFO]: [Not Secure] <Rghost1700> nop
-[05:40:25] [Async Chat Thread - #124/INFO]: [Not Secure] <Rghost1700> no me deja
-[05:40:33] [Async Chat Thread - #123/INFO]: [Not Secure] <Kadel> es oro especial
-[05:40:44] [Async Chat Thread - #124/INFO]: [Not Secure] <Kadel> necesitas una maquina que quiebre ese oro
-[05:41:31] [Async Chat Thread - #123/INFO]: [Not Secure] <Rghost1700> carajo
-[05:41:37] [Async Chat Thread - #124/INFO]: [Not Secure] <Rghost1700> hay un vergero de tipos de oro
-[05:41:57] [Server thread/INFO]: Rghost1700 issued server command: /back
-[05:43:18] [Server thread/INFO]: Rghost1700 issued server command: /back
-[05:44:21] [Craft Scheduler Thread - 1265 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
-[05:46:52] [Async Chat Thread - #125/INFO]: [Not Secure] <Rghost1700> a la verga
-[05:46:57] [Async Chat Thread - #126/INFO]: [Not Secure] <Rghost1700> un crafteo usa
-[05:47:03] [Async Chat Thread - #126/INFO]: [Not Secure] <Rghost1700> puros bloques de netherita
-[05:47:25] [Async Chat Thread - #125/INFO]: [Not Secure] <Kadel> este plugin te ayuda con los diagrama de flujo
-[05:47:42] [Async Chat Thread - #126/INFO]: [Not Secure] <Kadel> Xd
-[05:47:52] [Async Chat Thread - #125/INFO]: [Not Secure] <Rghost1700> hay hasta power banks?? que
-[05:50:18] [Server thread/INFO]: Kadel issued server command: /home
-[05:50:22] [Server thread/INFO]: Kadel issued server command: /sf guide
-[05:52:37] [Async Chat Thread - #127/INFO]: [Not Secure] <Kadel> Angelo, es casa, no lucirse
-[05:52:45] [Async Chat Thread - #128/INFO]: [Not Secure] <Kadel> pajuo
-[05:52:55] [Async Chat Thread - #127/INFO]: [Not Secure] <AngeloXRT> es la entrada, no la casa
-[05:54:21] [Craft Scheduler Thread - 1268 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 2 player(s)!
-[05:56:08] [Async Chat Thread - #130/INFO]: [Not Secure] <Rghost1700> y de paso mi cama
-[05:56:29] [Async Chat Thread - #129/INFO]: [Not Secure] <Kadel> quieto
-[05:56:31] [Async Chat Thread - #130/INFO]: [Not Secure] <Kadel> zona industrial
-[05:57:35] [Async Chat Thread - #131/INFO]: [Not Secure] <Rghost1700> ala verga
-[05:57:43] [Async Chat Thread - #132/INFO]: [Not Secure] <Kadel> zona industrial
-[05:58:21] [Async Chat Thread - #131/INFO]: [Not Secure] <AngeloXRT> mierda
-[05:58:24] [Async Chat Thread - #132/INFO]: [Not Secure] <AngeloXRT> lo hice mal
-[05:58:33] [Async Chat Thread - #131/INFO]: [Not Secure] <Rghost1700> xdd
-[05:59:25] [Async Chat Thread - #132/INFO]: [Not Secure] <Rghost1700> q arrecho
-[05:59:30] [Async Chat Thread - #131/INFO]: [Not Secure] <Kadel> ingenieria industrial
-[05:59:33] [Async Chat Thread - #133/INFO]: [Not Secure] <Kadel> ya casi hago la bomba
-[05:59:44] [Async Chat Thread - #132/INFO]: [Not Secure] <Rghost1700> nawebona
-[05:59:50] [Async Chat Thread - #133/INFO]: [Not Secure] <AngeloXRT> esta obsesionado con la bomba el peruano
-[05:59:50] [Async Chat Thread - #132/INFO]: [Not Secure] <Rghost1700> donde la vas a detonar
-[05:59:54] [Async Chat Thread - #133/INFO]: [Not Secure] <Kadel> pajuo
-[05:59:55] [Async Chat Thread - #133/INFO]: [Not Secure] <Rghost1700> de pana
-[06:00:16] [Async Chat Thread - #132/INFO]: [Not Secure] <Kadel> esta zona no tiene diamantes en ningun lado njd
-[06:00:28] [Async Chat Thread - #133/INFO]: [Not Secure] <Rghost1700> a mi me costo encontrar
-[06:00:37] [Async Chat Thread - #132/INFO]: [Not Secure] <Rghost1700> sin maquina
-[06:01:37] [Async Chat Thread - #133/INFO]: [Not Secure] <Kadel> el mapa salio puro montañoso
-[06:04:21] [Craft Scheduler Thread - 1266 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
-[06:13:46] [Async Chat Thread - #135/INFO]: [Not Secure] <Kadel> donde hay un oceano
-[06:13:47] [Server thread/INFO]: Kadel issued server command: /home
-[06:14:04] [Async Chat Thread - #134/INFO]: [Not Secure] <Rghost1700> sigue todo recto detras de mi casa
-[06:14:06] [Async Chat Thread - #135/INFO]: [Not Secure] <Rghost1700> creo que hay
-[06:16:04] [Async Chat Thread - #136/INFO]: [Not Secure] <Rghost1700> aumentaste los ticks?
-[06:16:16] [Async Chat Thread - #137/INFO]: [Not Secure] <Kadel> yo? no
-[06:17:15] [Async Chat Thread - #136/INFO]: [Not Secure] <Rghost1700> puta madre
-[06:20:20] [Async Chat Thread - #138/INFO]: [Not Secure] <Kadel> el bad omen lo agarraste de un outpost en la montaña?
-[06:20:28] [Async Chat Thread - #139/INFO]: [Not Secure] <Rghost1700> en la montaña
-[06:20:43] [Async Chat Thread - #138/INFO]: [Not Secure] <Rghost1700> en esta version aun no lo cambian a efecto de botella
-[06:21:12] [Async Chat Thread - #139/INFO]: [Not Secure] <Kadel> ni modo, toca hacerlo granja
-[06:21:48] [Server thread/WARN]: Boat (vehicle of Kadel) moved wrongly! 0.44507856237805754
-[06:21:48] [Server thread/WARN]: Boat (vehicle of Kadel) moved wrongly! 0.8267745281186762
-[06:27:29] [Server thread/WARN]: Boat (vehicle of Kadel) moved wrongly! 0.3405424366801526
-[06:27:29] [Server thread/WARN]: Boat (vehicle of Kadel) moved wrongly! 0.7371363816005214
-[06:27:29] [Server thread/WARN]: Boat (vehicle of Kadel) moved wrongly! 1.1339390215316598
-[06:27:29] [Server thread/WARN]: Boat (vehicle of Kadel) moved wrongly! 1.5308249772817817
-[06:27:55] [Async Chat Thread - #140/INFO]: [Not Secure] <Rghost1700> que arrecho es el acerradero
-[06:28:07] [Async Chat Thread - #141/INFO]: [Not Secure] <Kadel> duplicador de madera
-[06:28:11] [Async Chat Thread - #140/INFO]: [Not Secure] <Rghost1700> fr
-[06:28:20] [Async Chat Thread - #141/INFO]: [Not Secure] <Rghost1700> angelo se quedo dormido
-[06:28:22] [Async Chat Thread - #140/INFO]: [Not Secure] <Rghost1700> o que
-[06:28:33] [Async Chat Thread - #141/INFO]: [Not Secure] <AngeloXRT> minando
-[06:28:40] [Async Chat Thread - #140/INFO]: [Not Secure] <Kadel> que pendejo todavia mina
-[06:28:44] [Async Chat Thread - #141/INFO]: [Not Secure] <Kadel> xd
-[06:29:02] [Async Chat Thread - #140/INFO]: [Not Secure] <Rghost1700> cuanto xp cuesta la mina automatica
-[06:29:05] [Async Chat Thread - #141/INFO]: [Not Secure] <Kadel> 28
-[06:29:11] [Async Chat Thread - #140/INFO]: [Not Secure] <AngeloXRT> quiero terminar el craneo y luego me pongo a hacer vainas
-[06:29:13] [Async Chat Thread - #141/INFO]: [Not Secure] <Rghost1700> ando pelando bola
-[06:29:25] [Async Chat Thread - #140/INFO]: [Not Secure] <AngeloXRT> y aparte los crafteos cuestan experiencia y no tengo
-[06:29:29] [Async Chat Thread - #141/INFO]: [Not Secure] <Rghost1700> x2
-[06:29:39] [Async Chat Thread - #140/INFO]: [Not Secure] <Kadel> cuarzo en el nether
-[06:30:46] [Server thread/WARN]: Rghost1700 moved too quickly! 7.147079131051669,-0.12129684053920187,-7.40229297134465
-[06:32:01] [Server thread/INFO]: Rghost1700 has made the advancement [We Need to Go Deeper]
-[06:34:21] [Craft Scheduler Thread - 1278 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
-[06:37:02] [Server thread/INFO]: Rghost1700 issued server command: /back
-[06:37:45] [Async Chat Thread - #142/INFO]: [Not Secure] <Rghost1700> para que es el ore washer
-[06:38:00] [Async Chat Thread - #142/INFO]: [Not Secure] <Kadel> lavas polvo
-[06:38:11] [Async Chat Thread - #142/INFO]: [Not Secure] <Kadel> para que te salgan polvos valiosos
-[06:38:39] [Async Chat Thread - #142/INFO]: [Not Secure] <Rghost1700> voto por hacer una zona comunal con toda la mierda industrial
-[06:38:50] [Async Chat Thread - #142/INFO]: [Not Secure] <Kadel> y la experiencia?
-[06:39:00] [Async Chat Thread - #142/INFO]: [Not Secure] <Rghost1700> Q
-[06:39:04] [Async Chat Thread - #143/INFO]: [Not Secure] <AngeloXRT> termine
-[06:39:10] [Async Chat Thread - #143/INFO]: [Not Secure] <Rghost1700> termino
-[06:40:02] [Async Chat Thread - #143/INFO]: [Not Secure] <Rghost1700> te quedo pro
-[06:40:25] [Async Chat Thread - #142/INFO]: [Not Secure] <AngeloXRT> thx
-[06:41:29] [Server thread/INFO]: Kadel issued server command: /home
-[06:41:44] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> tengo algo que va a empezar una guerra
-[06:42:16] [Async Chat Thread - #145/INFO]: [Not Secure] <AngeloXRT> una furra?
-[06:42:20] [Async Chat Thread - #145/INFO]: [Not Secure] <Kadel> algo peor
-[06:42:25] [Async Chat Thread - #145/INFO]: [Not Secure] <AngeloXRT> mielda
-[06:42:30] [Async Chat Thread - #145/INFO]: [Not Secure] <AngeloXRT> a
-[06:42:58] [Async Chat Thread - #145/INFO]: [Not Secure] <Kadel> angelo Xd
-[06:43:02] [Server thread/INFO]: Rghost1700 issued server command: /back
-[06:43:05] [Async Chat Thread - #145/INFO]: [Not Secure] <AngeloXRT> dime
-[06:43:08] [Server thread/INFO]: Rghost1700 issued server command: /back
-[06:43:09] [Async Chat Thread - #145/INFO]: [Not Secure] <Kadel> ven un momento
-[06:43:15] [Server thread/INFO]: Rghost1700 issued server command: /home
-[06:43:25] [Async Chat Thread - #145/INFO]: [Not Secure] <AngeloXRT> xd
-[06:43:48] [Server thread/INFO]: Kadel fell from a high place
-[06:43:50] [Server thread/INFO]: Rghost1700 fell from a high place
-[06:43:51] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> ñelda
-[06:43:53] [Server thread/INFO]: Kadel issued server command: /b ack
-[06:43:53] [Server thread/INFO]: Rghost1700 issued server command: /back
-[06:43:55] [Server thread/INFO]: Kadel issued server command: /back
-[06:44:00] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> XD
-[06:44:04] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> XDDD
-[06:44:38] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> q mas tenias Xd
-[06:44:46] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> el pantalo
-[06:45:03] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> ya
-[06:45:04] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> pensé que habia agua
-[06:45:12] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> yo no tenia mi agua en la barra
-[06:45:13] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> xD
-[06:45:14] [Async Chat Thread - #145/INFO]: [Not Secure] <Kadel> y tu pndjo me seguiste Xd
-[06:45:20] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> te queria matar
-[06:45:24] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> Xdd
-[06:45:29] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> y me salvaba por un pixel
-[06:45:31] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> pero no
-[06:45:56] [Server thread/INFO]: Kadel issued server command: /home
-[06:46:01] [Server thread/INFO]: Rghost1700 issued server command: /home
-[06:46:23] [Async Chat Thread - #145/INFO]: [Not Secure] <Kadel> como conseguimos xp rapida ahora
-[06:46:31] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> hay 3 opciones
-[06:46:35] [Async Chat Thread - #145/INFO]: [Not Secure] <Kadel> sacrificamos a angelo
-[06:46:58] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> granjas de xp, buscamos un spawner o instalamos un plugin que esta op
-[06:47:13] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> el plugin es de convertir carne de zombie a cuero
-[06:47:18] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> y la mierda te sube 1 nivel entero
-[06:47:21] [Async Chat Thread - #145/INFO]: [Not Secure] <Rghost1700> por cada
-[06:47:36] [Async Chat Thread - #144/INFO]: [Not Secure] <Kadel> yo precisamente estaba buscando oceano para una granja de mobs
-[06:48:00] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> angelo se hizo una casa al aire libre
-[06:48:15] [Async Chat Thread - #144/INFO]: [Not Secure] <AngeloXRT> es provicional
-[06:48:30] [Server thread/INFO]: AngeloXRT was doomed to fall by Kadel
-[06:48:35] [Server thread/INFO]: AngeloXRT issued server command: /back
-[06:48:43] [Async Chat Thread - #144/INFO]: [Not Secure] <Rghost1700> hijueperrra
-[06:49:41] [Server thread/INFO]: AngeloXRT was doomed to fall by Kadel using [Grandpas Walking Stick]
-[06:49:49] [Server thread/INFO]: AngeloXRT issued server command: /back
-[06:51:09] [Async Chat Thread - #146/INFO]: [Not Secure] <Rghost1700> pero si estan deacuerdo con hacer la zona industrial comunal?
-[06:51:42] [Async Chat Thread - #146/INFO]: [Not Secure] <AngeloXRT> villa anda a mamarte una caravana de webos
-[06:51:47] [Async Chat Thread - #146/INFO]: [Not Secure] <Kadel> Xd
-[06:51:53] [Async Chat Thread - #146/INFO]: [Not Secure] <Rghost1700> xd
-[06:52:03] [Async Chat Thread - #146/INFO]: [Not Secure] <Kadel> el puente es inseguro
-[06:52:06] [Async Chat Thread - #146/INFO]: [Not Secure] <Kadel> dame presupuesto
-[06:52:10] [Async Chat Thread - #146/INFO]: [Not Secure] <Kadel> pa terminalo
-[06:52:15] [Async Chat Thread - #146/INFO]: [Not Secure] <Rghost1700> q necesitas
-[06:52:27] [Async Chat Thread - #147/INFO]: [Not Secure] <Kadel> lo que lleva el puente
-[06:52:38] [Async Chat Thread - #147/INFO]: [Not Secure] <Rghost1700> no e picado mas roca
-[06:54:21] [Craft Scheduler Thread - 1280 - Slimefun/INFO]: [Slimefun] Auto-saved all player data for 1 player(s)!
-[07:01:22] [Server thread/INFO]: Kadel lost connection: Timed out
-[07:01:22] [Server thread/INFO]: Kadel left the game
-[07:01:23] [Server thread/INFO]: AngeloXRT lost connection: Timed out
-[07:01:23] [Server thread/INFO]: AngeloXRT left the game
+[20:10:49] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vRC - 37
+[20:10:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[20:10:49] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[20:10:49] [Server thread/INFO]: [SlimyRepair] Loading server plugin SlimyRepair vDev - 1
+[20:10:49] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[20:10:49] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.3
+[20:10:49] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[20:10:49] [Server thread/INFO]: [FluffyMachines] Loading server plugin FluffyMachines vDev - 8
+[20:10:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:10:49] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[20:10:49] [Server thread/INFO]:         __    
+[20:10:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[20:10:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:10:49] [Server thread/INFO]: 
+[20:10:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:10:49] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:10:50] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:10:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:10:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1208ms)
+[20:10:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[20:10:50] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[20:10:51] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:10:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[20:10:51] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:10:51] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[20:10:51] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[20:10:52] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material crafter, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_door, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_trapdoor, ignoring it
+[20:10:52] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 37
+[20:10:52] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[20:10:52] [Server thread/INFO]: [Slimefun] Creating directories...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading language files...
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.0
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:10:52] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:10:52] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[20:10:52] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, bg, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
+[20:10:52] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[20:10:52] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[20:10:52] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading Tags...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading items...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading researches...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[20:10:52] [Server thread/INFO]: [Slimefun] Registering listeners...
+[20:10:52] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[20:10:52] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 770ms
+[20:10:52] [Server thread/INFO]: [SlimyRepair] Enabling SlimyRepair vDev - 1
+[20:10:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[20:10:52] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:10:52] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:10:53] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[20:10:53] [Server thread/INFO]: [Essentials] Using locale en
+[20:10:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:10:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:10:53] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[20:10:53] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20:10:53] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[20:10:53] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.3
+[20:10:53] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.20.1 (Core v1_20x)
+[20:10:53] [Server thread/INFO]: [FluffyMachines] Enabling FluffyMachines vDev - 8
+[20:10:53] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5248ms or 104 ticks behind
+[20:10:53] [Server thread/INFO]: Timings Reset
+[20:10:53] [Craft Scheduler Thread - 12 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:10:53] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #29
+[20:10:53] [Server thread/INFO]: [Slimefun] with a total of 19/19 chart(s)!
+[20:10:53] [Server thread/INFO]: [Slimefun] Metrics build #29 started.
+[20:10:53] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[20:10:53] [Server thread/INFO]: [Slimefun] Found 1,174 Recipes!
+[20:10:53] [Craft Scheduler Thread - 7 - FluffyMachines/INFO]: [FluffyMachines] FluffyMachines is already up to date!
+[20:10:53] [Server thread/INFO]: 
+[20:10:53] [Server thread/INFO]: ######################### - Slimefun vRC - 37 - #########################
+[20:10:53] [Server thread/INFO]: 
+[20:10:53] [Server thread/INFO]: Successfully loaded 607 Items and 258 Researches
+[20:10:53] [Server thread/INFO]: ( 555 Items from Slimefun, 52 Items from 2 Addons )
+[20:10:53] [Server thread/INFO]: 
+[20:10:53] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[20:10:53] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[20:10:53] [Server thread/INFO]: 
+[20:10:53] [Server thread/INFO]:  - Source Code:  https://github.com/Slimefun/Slimefun4
+[20:10:53] [Server thread/INFO]:  - Wiki:         https://github.com/Slimefun/Slimefun4/wiki
+[20:10:53] [Server thread/INFO]:  - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons
+[20:10:53] [Server thread/INFO]:  - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues
+[20:10:53] [Server thread/INFO]:  - Discord:      https://discord.gg/slimefun
+[20:10:53] [Server thread/INFO]: 
+[20:10:53] [Craft Scheduler Thread - 11 - Slimefun/INFO]: [Slimefun] Slimefun is already up to date!
+[20:10:53] [Craft Scheduler Thread - 8 - SlimyRepair/INFO]: [SlimyRepair] SlimyRepair is already up to date!
+[20:10:53] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[20:10:53] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:10:53] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:10:53] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[20:10:53] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[20:10:53] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:10:53] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:10:53] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[20:10:53] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[20:10:53] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:10:53] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:10:53] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[20:10:53] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[20:10:53] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[20:10:53] [Server thread/INFO]: [dough: protection] Loaded Protection Module "BlockLocker v1.13"
+[20:11:42] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:11:42] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:11:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:11:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:11:42] [Server thread/INFO]: [FluffyMachines] Disabling FluffyMachines vDev - 8
+[20:11:42] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[20:11:42] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.3
+[20:11:42] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[20:11:42] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[20:11:42] [Server thread/INFO]: [SlimyRepair] Disabling SlimyRepair vDev - 1
+[20:11:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[20:11:42] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[20:11:42] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:11:42] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:11:42] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:11:42] [Server thread/INFO]: [Slimefun] Disabling Slimefun vRC - 37
+[20:11:42] [Server thread/INFO]: [Slimefun] Backed up Slimefun data to: 2025-03-15-20-11.zip
+[20:11:43] [Server thread/INFO]: Loaded 7 recipes
+[20:11:43] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Chunky-Bukkit-1.4.28.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:1095) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.Bukkit.reload(Bukkit.java:993) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServer.java:972) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:500) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
+	... 17 more
+[20:11:43] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'FastMachines.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:1095) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.Bukkit.reload(Bukkit.java:993) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServer.java:972) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:500) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
+	... 17 more
+[20:11:43] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vRC - 37
+[20:11:43] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[20:11:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[20:11:43] [Server thread/INFO]: [SlimyRepair] Loading server plugin SlimyRepair vDev - 1
+[20:11:43] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[20:11:43] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.3
+[20:11:43] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[20:11:43] [Server thread/INFO]: [FluffyMachines] Loading server plugin FluffyMachines vDev - 8
+[20:11:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:11:43] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[20:11:44] [Server thread/INFO]:         __    
+[20:11:44] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[20:11:44] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:11:44] [Server thread/INFO]: 
+[20:11:44] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:11:44] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:11:44] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:11:44] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:11:44] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1035ms)
+[20:11:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[20:11:45] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[20:11:45] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:11:45] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[20:11:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:11:46] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[20:11:46] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[20:11:46] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material crafter, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_door, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_trapdoor, ignoring it
+[20:11:46] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 37
+[20:11:46] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[20:11:46] [Server thread/INFO]: [Slimefun] Creating directories...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading language files...
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.6.0
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:11:46] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:11:46] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[20:11:46] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, bg, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
+[20:11:46] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[20:11:46] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[20:11:46] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading Tags...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading items...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading researches...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[20:11:46] [Server thread/INFO]: [Slimefun] Registering listeners...
+[20:11:46] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[20:11:46] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 596ms
+[20:11:46] [Server thread/INFO]: [SlimyRepair] Enabling SlimyRepair vDev - 1
+[20:11:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[20:11:46] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:11:46] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:11:47] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[20:11:47] [Server thread/INFO]: [Essentials] Using locale en
+[20:11:47] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:11:47] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:11:47] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[20:11:47] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20:11:47] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[20:11:47] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.3
+[20:11:47] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.20.1 (Core v1_20x)
+[20:11:47] [Server thread/INFO]: [FluffyMachines] Enabling FluffyMachines vDev - 8
+[20:11:47] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:11:47] [Server thread/INFO]: Timings Reset
+[20:11:47] [Craft Scheduler Thread - 8 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:11:47] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #29
+[20:11:47] [Server thread/INFO]: [Slimefun] with a total of 19/19 chart(s)!
+[20:11:47] [Server thread/INFO]: [Slimefun] Metrics build #29 started.
+[20:11:47] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[20:11:47] [Server thread/INFO]: [Slimefun] Found 1,174 Recipes!
+[20:11:47] [Server thread/INFO]: 
+[20:11:47] [Server thread/INFO]: ######################### - Slimefun vRC - 37 - #########################
+[20:11:47] [Server thread/INFO]: 
+[20:11:47] [Server thread/INFO]: Successfully loaded 607 Items and 258 Researches
+[20:11:47] [Server thread/INFO]: ( 555 Items from Slimefun, 52 Items from 2 Addons )
+[20:11:47] [Server thread/INFO]: 
+[20:11:47] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[20:11:47] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[20:11:47] [Server thread/INFO]: 
+[20:11:47] [Server thread/INFO]:  - Source Code:  https://github.com/Slimefun/Slimefun4
+[20:11:47] [Server thread/INFO]:  - Wiki:         https://github.com/Slimefun/Slimefun4/wiki
+[20:11:47] [Server thread/INFO]:  - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons
+[20:11:47] [Server thread/INFO]:  - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues
+[20:11:47] [Server thread/INFO]:  - Discord:      https://discord.gg/slimefun
+[20:11:47] [Server thread/INFO]: 
+[20:11:47] [Craft Scheduler Thread - 17 - FluffyMachines/INFO]: [FluffyMachines] FluffyMachines is already up to date!
+[20:11:47] [Craft Scheduler Thread - 11 - Slimefun/INFO]: [Slimefun] Slimefun is already up to date!
+[20:11:47] [Craft Scheduler Thread - 16 - SlimyRepair/INFO]: [SlimyRepair] SlimyRepair is already up to date!
+[20:11:47] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[20:11:47] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:11:47] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:11:47] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[20:11:47] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[20:11:47] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:11:47] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:11:47] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[20:11:47] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[20:11:47] [Server thread/INFO]: [Slimefun] This may take a long time...
+[20:11:47] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[20:11:47] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[20:11:47] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[20:11:47] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[20:11:47] [Server thread/INFO]: [dough: protection] Loaded Protection Module "BlockLocker v1.13"
+[20:21:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Kadel> asd
+[20:21:42] [Server thread/INFO]: Kadel lost connection: Disconnected
+[20:21:42] [Server thread/INFO]: Kadel left the game
+[20:28:30] [User Authenticator #1/INFO]: UUID of player AngeloXRT is 4f950e56-b8e7-31f0-8352-792a8b5ea0a9
+[20:28:30] [Server thread/INFO]: AngeloXRT joined the game
+[20:28:30] [Server thread/INFO]: AngeloXRT[/127.76.118.210:44805] logged in with entity id 3323 at ([world]-1315.5841523460933, 106.0, -2082.6823656907286)
+[20:32:26] [Server thread/INFO]: AngeloXRT has made the advancement [We Need to Go Deeper]
+[21:01:52] [Server thread/INFO]: AngeloXRT lost connection: Timed out
+[21:01:52] [Server thread/INFO]: AngeloXRT left the game
+[21:03:30] [User Authenticator #2/INFO]: UUID of player AngeloXRT is 4f950e56-b8e7-31f0-8352-792a8b5ea0a9
+[21:03:30] [Server thread/INFO]: AngeloXRT joined the game
+[21:03:30] [Server thread/INFO]: AngeloXRT[/127.76.118.210:52275] logged in with entity id 7307 at ([world_nether]-198.7773952665751, 85.0, -283.2555998629353)
+[21:05:21] [Server thread/INFO]: AngeloXRT was doomed to fall by Piglin
+[21:05:32] [Server thread/INFO]: AngeloXRT issued server command: /back
+[21:08:08] [Server thread/INFO]: AngeloXRT burned to death
+[21:08:16] [Server thread/INFO]: AngeloXRT issued server command: /back
+[21:16:44] [User Authenticator #3/INFO]: UUID of player Rghost1700 is 31c4e24c-b8c0-3a7e-8918-e689253f817a
+[21:16:44] [Server thread/INFO]: Rghost1700 joined the game
+[21:16:44] [Server thread/INFO]: Rghost1700[/127.126.159.180:36963] logged in with entity id 9662 at ([world]-1375.478149959181, 114.0, -2039.4941704881498)
+[21:17:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Rghost1700> buena talde
+[21:17:07] [Async Chat Thread - #3/INFO]: [Not Secure] <AngeloXRT> buenas
+[21:17:20] [Async Chat Thread - #2/INFO]: [Not Secure] <AngeloXRT> casi llegue al nivel 30 y un piglin me empujo por un barranco
+[21:17:26] [Async Chat Thread - #3/INFO]: [Not Secure] <Rghost1700> que pajuo

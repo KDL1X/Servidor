@@ -609,3 +609,6 @@ fluffymachines:
   LARGE_FLUFFY_BARREL: true
   MASSIVE_FLUFFY_BARREL: true
   BOTTOMLESS_FLUFFY_BARREL: true
+slimyrepair:
+  enabled: true
+  SLIMY_ANVIL: true

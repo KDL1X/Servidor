@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1741737411793
-  login: 1741994550404
+  logout: 1742022769914
+  login: 1742073404649
 money: '0'
 logoutlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1365.5
-  y: 109.0
-  z: -2050.5
-  yaw: 89.99999237060547
-  pitch: 0.0
+  x: -1375.478149959181
+  y: 114.0
+  z: -2039.4941704881498
+  yaw: 169.4962158203125
+  pitch: -23.90606117248535
 last-account-name: Rghost1700
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae

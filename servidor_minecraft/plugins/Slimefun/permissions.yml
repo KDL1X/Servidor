@@ -3028,3 +3028,8 @@ BOTTOMLESS_FLUFFY_BARREL:
   lore:
   - '&rYou do not have the permission'
   - '&rto access this item.'
+SLIMY_ANVIL:
+  permission: none
+  lore:
+  - '&rYou do not have the permission'
+  - '&rto access this item.'
