@@ -340,6 +340,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-15 04:47:06 +0000",
       "minecraft:skeleton": "2025-03-11 04:44:41 +0000",
       "minecraft:spider": "2025-03-11 01:54:26 +0000",
       "minecraft:creeper": "2025-03-11 02:10:43 +0000",
@@ -2382,6 +2383,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-03-15 03:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-15 04:47:06 +0000"
     },
     "done": true
   },

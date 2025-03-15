@@ -326,6 +326,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-15 00:32:57 +0000",
+      "minecraft:creeper": "2025-03-15 04:40:51 +0000",
       "minecraft:slime": "2025-03-15 00:33:06 +0000",
       "minecraft:zombie": "2025-03-15 00:15:02 +0000",
       "minecraft:drowned": "2025-03-15 00:44:35 +0000",
@@ -1566,6 +1567,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-15 04:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-15 04:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-15 04:40:53 +0000"
     },
     "done": true
   },
