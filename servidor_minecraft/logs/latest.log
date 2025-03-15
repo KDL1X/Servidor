@@ -671,3 +671,252 @@
 [04:11:56] [Async Chat Thread - #97/INFO]: [Not Secure] <Rghost1700> oh no
 [04:15:52] [Async Chat Thread - #99/INFO]: [Not Secure] <Rghost1700> q sueño colega
 [04:16:15] [Async Chat Thread - #99/INFO]: [Not Secure] <AngeloXRT> yo no puedo dormir si todavia no tengo claro como hacer mi casa
+[04:21:09] [Async Chat Thread - #101/INFO]: [Not Secure] <Kadel> angelo, por si avaso, el portal a la dimension de cobblestone no existe
+[04:21:15] [Async Chat Thread - #101/INFO]: [Not Secure] <AngeloXRT> JAJAJJAJAJJA
+[04:21:26] [Async Chat Thread - #102/INFO]: [Not Secure] <AngeloXRT> raios
+[04:21:45] [Async Chat Thread - #101/INFO]: [Not Secure] <AngeloXRT> roger
+[04:21:57] [Async Chat Thread - #102/INFO]: [Not Secure] <AngeloXRT> voy a picar la diorita de tu mina de andesita xd
+[04:22:39] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[04:22:41] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[04:22:41] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[04:22:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:22:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:22:41] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[04:22:41] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.3
+[04:22:41] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[04:22:41] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[04:22:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[04:22:41] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[04:22:41] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:22:41] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:22:41] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:22:41] [Server thread/INFO]: Loaded 7 recipes
+[04:22:42] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Chunky-Bukkit-1.4.28.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:1095) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.Bukkit.reload(Bukkit.java:993) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServer.java:972) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:500) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBukkit has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
+	... 17 more
+[04:22:42] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'FastMachines.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:127) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServer.java:1095) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.Bukkit.reload(Bukkit.java:993) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServer.java:972) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:500) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1393) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: net/guizhanss/fastmachines/libs/guizhanlib/slimefun/addon/AbstractAddon has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:229) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:150) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:76) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:123) ~[paper-1.20.1.jar:git-Paper-196]
+	... 17 more
+[04:22:42] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[04:22:42] [Server thread/INFO]: [Slimefun] Loading server plugin Slimefun vRC - 37
+[04:22:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[04:22:42] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[04:22:42] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.3
+[04:22:42] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[04:22:42] [Server thread/INFO]: [FluffyMachines] Loading server plugin FluffyMachines vDev - 8
+[04:22:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:22:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[04:22:42] [Server thread/INFO]:         __    
+[04:22:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[04:22:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:22:42] [Server thread/INFO]: 
+[04:22:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:22:42] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:22:43] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:22:43] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:22:43] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 752ms)
+[04:22:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[04:22:43] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[04:22:43] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[04:22:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[04:22:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:22:44] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[04:22:44] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[04:22:44] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material crafter, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_door, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material exposed_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material oxidized_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material weathered_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_exposed_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_weathered_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/WARN]: [BlockLocker] Cannot recognize material waxed_oxidized_copper_trapdoor, ignoring it
+[04:22:44] [Server thread/INFO]: [Slimefun] Enabling Slimefun vRC - 37
+[04:22:44] [Server thread/INFO]: [Slimefun] Paper was detected! Performance optimizations have been applied.
+[04:22:44] [Server thread/INFO]: [Slimefun] Creating directories...
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading language files...
+[04:22:44] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.0
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:22:44] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:22:44] [Server thread/INFO]: [Slimefun] Loaded language "en"
+[04:22:44] [Server thread/INFO]: [Slimefun] Available languages: en, de, fr, it, es, ru, uk, sv, cs, bg, pt-BR, hu, sk, vi, id, zh-CN, zh-TW, ja, ko, he, ar, tr, th, tl
+[04:22:44] [Server thread/INFO]: [Slimefun] Using legacy storage for player data
+[04:22:44] [Server thread/INFO]: [Slimefun] Enabled Analytics Service
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] MetricsModule does not exist, downloading...
+[04:22:44] [Server thread/INFO]: [Slimefun] Starting Auto-Updater...
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading GEO-Resources...
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading Tags...
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading items...
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Starting download of MetricsModule build: #29
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 20% (6890/59681 bytes)
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 40% (17914/59681 bytes)
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 60% (30316/59681 bytes)
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 80% (42414/59681 bytes)
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] # Downloading... 100% (54816/59681 bytes)
+[04:22:44] [Slimefun Metrics/INFO]: [Slimefun] Successfully downloaded MetricsModule build: #29
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading researches...
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading Wiki pages...
+[04:22:44] [Server thread/INFO]: [Slimefun] Registering listeners...
+[04:22:44] [Server thread/INFO]: [Slimefun] Loading Third-Party plugin integrations...
+[04:22:44] [Server thread/INFO]: [Slimefun] Slimefun has finished loading in 876ms
+[04:22:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[04:22:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:22:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:22:45] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[04:22:45] [Server thread/INFO]: [Essentials] Using locale en
+[04:22:45] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:22:45] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:22:45] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[04:22:45] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[04:22:45] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[04:22:45] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.3
+[04:22:45] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.20.1 (Core v1_20x)
+[04:22:45] [Server thread/INFO]: [FluffyMachines] Enabling FluffyMachines vDev - 8
+[04:22:45] [Server thread/INFO]: CONSOLE: Reload complete.
+[04:22:45] [Server thread/INFO]: Timings Reset
+[04:22:45] [Craft Scheduler Thread - 1238 - Essentials/INFO]: [Essentials] Fetching version information...
+[04:22:45] [Server thread/INFO]: [Slimefun] Now running MetricsModule build #29
+[04:22:45] [Server thread/INFO]: [Slimefun] with a total of 19/19 chart(s)!
+[04:22:45] [Server thread/INFO]: [Slimefun] Metrics build #29 started.
+[04:22:45] [Server thread/INFO]: [Slimefun] Collecting Snapshots of all Recipes...
+[04:22:45] [Server thread/INFO]: [Slimefun] Found 1,174 Recipes!
+[04:22:45] [Server thread/INFO]: 
+[04:22:45] [Server thread/INFO]: ######################### - Slimefun vRC - 37 - #########################
+[04:22:45] [Server thread/INFO]: 
+[04:22:45] [Server thread/INFO]: Successfully loaded 606 Items and 258 Researches
+[04:22:45] [Server thread/INFO]: ( 555 Items from Slimefun, 51 Items from 1 Addons )
+[04:22:45] [Server thread/INFO]: 
+[04:22:45] [Server thread/INFO]: Slimefun is an Open-Source project that is kept alive by a large community.
+[04:22:45] [Server thread/INFO]: Consider helping us maintain this project by contributing on GitHub!
+[04:22:45] [Server thread/INFO]: 
+[04:22:45] [Server thread/INFO]:  - Source Code:  https://github.com/Slimefun/Slimefun4
+[04:22:45] [Server thread/INFO]:  - Wiki:         https://github.com/Slimefun/Slimefun4/wiki
+[04:22:45] [Server thread/INFO]:  - Addons:       https://github.com/Slimefun/Slimefun4/wiki/Addons
+[04:22:45] [Server thread/INFO]:  - Bug Reports:  https://github.com/Slimefun/Slimefun4/issues
+[04:22:45] [Server thread/INFO]:  - Discord:      https://discord.gg/slimefun
+[04:22:45] [Server thread/INFO]: 
+[04:22:45] [Craft Scheduler Thread - 1239 - FluffyMachines/INFO]: [FluffyMachines] FluffyMachines is already up to date!
+[04:22:45] [Craft Scheduler Thread - 1235 - Slimefun/INFO]: [Slimefun] Slimefun is already up to date!
+[04:22:45] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[04:22:45] [Server thread/INFO]: [Slimefun] This may take a long time...
+[04:22:45] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[04:22:45] [Server thread/INFO]: [Slimefun] This may take a long time...
+[04:22:45] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[04:22:45] [Server thread/INFO]: [Slimefun] This may take a long time...
+[04:22:45] [Server thread/INFO]: [dough: protection] Loading Protection Modules...
+[04:22:45] [Server thread/INFO]: [dough: protection] This may happen more than once.
+[04:22:45] [Server thread/INFO]: [dough: protection] Loaded Protection Module "BlockLocker v1.13"
+[04:23:40] [Async Chat Thread - #101/INFO]: [Not Secure] <Kadel> no creo que dwayne johnson salga por ese portal de piedra
+[04:23:56] [Async Chat Thread - #102/INFO]: [Not Secure] <AngeloXRT> como que no?
+[04:24:20] [Async Chat Thread - #101/INFO]: [Not Secure] <Kadel> el puente desde la casa de roger parece un metro
+[04:24:49] [Async Chat Thread - #101/INFO]: [Not Secure] <AngeloXRT> no me he fijado
+[04:24:58] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[04:25:00] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[04:25:00] [luckperms-command-executor/INFO]: https://luckperms.net/editor/tasxWIwTXx
+[04:25:13] [luckperms-worker-9/INFO]: [LP] Editor window connected successfully.
+[04:25:41] [luckperms-worker-9/INFO]: [LP] Changes have been received from the connected web editor session.
+[04:25:41] [luckperms-worker-9/INFO]: [LP] Web editor data was applied to group default successfully.
+[04:25:41] [luckperms-worker-9/INFO]: [LP] (4 additions and 0 deletions)
+[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.command.open_guide (true)
+[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.command.guide (true)
+[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.stats (true)
+[04:25:41] [luckperms-worker-9/INFO]: +  slimefun.command.search (true)
+[04:25:52] [Server thread/INFO]: Kadel issued server command: /sf guide
+[04:29:54] [Async Chat Thread - #103/INFO]: [Not Secure] <Kadel> estas en cueva?
+[04:30:05] [Async Chat Thread - #104/INFO]: [Not Secure] <AngeloXRT> si, en la que esta al lado de mis cofres
+[04:30:10] [Async Chat Thread - #104/INFO]: [Not Secure] <AngeloXRT> estoy picando diorita
+[04:30:11] [Server thread/INFO]: Kadel has made the advancement [Ice Bucket Challenge]
+[04:30:28] [Server thread/INFO]: Kadel has made the advancement [We Need to Go Deeper]
