@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-03-15 03:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-15 03:14:37 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-15 03:19:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-15 03:08:46 +0000"
@@ -169,10 +181,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-15 03:23:40 +0000",
       "minecraft:cherry_grove": "2025-03-15 03:13:23 +0000",
+      "minecraft:birch_forest": "2025-03-15 03:20:46 +0000",
       "minecraft:beach": "2025-03-15 03:09:41 +0000",
       "minecraft:river": "2025-03-15 03:16:35 +0000",
+      "minecraft:stony_shore": "2025-03-15 03:24:05 +0000",
       "minecraft:forest": "2025-03-15 03:06:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-15 03:19:13 +0000",
+      "minecraft:meadow": "2025-03-15 03:22:43 +0000",
       "minecraft:plains": "2025-03-15 03:12:15 +0000"
     },
     "done": false
