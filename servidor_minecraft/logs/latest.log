@@ -438,3 +438,8 @@
 [02:10:22] [Server thread/INFO]: Villager EntityVillager['Villager'/230, uuid='924ec020-1df3-46dc-99c1-d4bc4e4cdd8f', l='ServerLevel[world]', x=-1358.18, y=121.00, z=-1892.30, cpos=[-85, -119], tl=286808, v=true] died, message: 'Villager was slain by Zombie'
 [02:10:29] [Server thread/INFO]: Villager EntityVillager['Nitwit'/229, uuid='7eb3da63-b423-44e2-8e29-508626ea2ffa', l='ServerLevel[world]', x=-1357.60, y=121.00, z=-1892.30, cpos=[-85, -119], tl=286110, v=true] died, message: 'Nitwit was slain by Zombie'
 [02:11:32] [Async Chat Thread - #52/INFO]: [Not Secure] <Kadel> una vaca dando vueltas
+[02:20:02] [Async Chat Thread - #54/INFO]: [Not Secure] <Rghost1700> ese puente parece el de
+[02:20:11] [Async Chat Thread - #54/INFO]: [Not Secure] <Rghost1700> el del metro que nunca terminaron
+[02:20:18] [Async Chat Thread - #54/INFO]: [Not Secure] <Kadel> ese mismo es
+[02:22:34] [Async Chat Thread - #56/INFO]: [Not Secure] <Kadel> albañil profesional
+[02:26:43] [Server thread/INFO]: Kadel issued server command: /home
