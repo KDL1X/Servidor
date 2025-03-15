@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742016153661
+  lastteleport: 1742017819711
   lastheal: 0
   mute: 0
   jail: 0
@@ -29,10 +29,10 @@ logoutlocation:
   pitch: 90.0
 last-account-name: Kadel
 lastlocation:
-  world: 4dd01871-d252-4a11-900b-4676e0bb15ae
-  world-name: world
-  x: -1333.9331337719066
-  y: 14.0
-  z: -1966.8213813964785
-  yaw: -97.38833618164062
-  pitch: -3.476093292236328
+  world: fb757a89-cdc5-4dd8-995f-2aea424338e2
+  world-name: world_nether
+  x: -213.30000001192093
+  y: 102.0
+  z: -175.0200403618499
+  yaw: -66.7066650390625
+  pitch: 37.80528259277344
