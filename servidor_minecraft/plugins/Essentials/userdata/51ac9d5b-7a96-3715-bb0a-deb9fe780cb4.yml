@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742003186766
+  logout: 1742022082915
   login: 1742003481611
 money: '0'
 logoutlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1349.5
-  y: 69.0
-  z: -1978.5
-  yaw: 112.58037567138672
-  pitch: 90.0
+  x: -1354.3772899982127
+  y: 109.0
+  z: -2070.5038354739836
+  yaw: -2.716796875
+  pitch: -5.0928544998168945
 last-account-name: Kadel
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
