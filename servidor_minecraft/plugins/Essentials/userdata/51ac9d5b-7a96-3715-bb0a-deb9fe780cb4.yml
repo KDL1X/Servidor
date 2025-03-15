@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742002164311
+  lastteleport: 1742003155311
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1741678390414
+  logout: 1742003186766
   login: 1742000961413
 money: '0'
 logoutlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1317.699999988079
-  y: 116.0
-  z: -1961.378426573552
-  yaw: -129.51025390625
-  pitch: 31.44013214111328
+  x: -1349.5
+  y: 69.0
+  z: -1978.5
+  yaw: 112.58037567138672
+  pitch: 90.0
 last-account-name: Kadel
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1348.5758790786165
-  y: 58.0
-  z: -1987.5457254201726
-  yaw: 174.38116455078125
-  pitch: 44.98078155517578
+  x: -1313.3416339452663
+  y: 114.0
+  z: -1965.141431626554
+  yaw: 137.35316467285156
+  pitch: 15.488668441772461

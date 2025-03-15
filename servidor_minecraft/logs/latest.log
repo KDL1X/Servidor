@@ -280,3 +280,77 @@
 [01:37:31] [Async Chat Thread - #35/INFO]: [Not Secure] <AngeloXRT> no tengo espacio en el inventario xd
 [01:37:32] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> se las tire al pajuo de villa
 [01:37:55] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> robao
+[01:38:50] [Async Chat Thread - #34/INFO]: [Not Secure] <Rghost1700> te voy a matar
+[01:39:08] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> XD
+[01:39:19] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> esta aprendiendo
+[01:39:26] [Async Chat Thread - #35/INFO]: [Not Secure] <Rghost1700> a proteger los cofres
+[01:39:30] [Async Chat Thread - #35/INFO]: [Not Secure] <Kadel> ingeniero cubico
+[01:40:16] [Server thread/INFO]: AngeloXRT has made the advancement [Sweet Dreams]
+[01:40:35] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> pana
+[01:40:46] [Async Chat Thread - #38/INFO]: [Not Secure] <Rghost1700> pero ese puente no esta alineado con mi montaña
+[01:41:07] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> es de pura decoracion
+[01:41:12] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> pa mi casa
+[01:41:13] [Async Chat Thread - #38/INFO]: [Not Secure] <Rghost1700> que pajuo
+[01:41:22] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> aqui no somos funcionales
+[01:41:25] [Async Chat Thread - #38/INFO]: [Not Secure] <Rghost1700> angelo sabias que te puedes poner skin
+[01:41:33] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> ./skin pajuo
+[01:41:38] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> xdd}w
+[01:41:42] [Server thread/INFO]: Kadel issued server command: /home
+[01:41:53] [Async Chat Thread - #36/INFO]: [Not Secure] <AngeloXRT> pero tengo skin, el servidor no me la detecta?
+[01:41:57] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> nop
+[01:42:05] [Async Chat Thread - #36/INFO]: [Not Secure] <Kadel> a roger si
+[01:42:11] [Server thread/INFO]: AngeloXRT issued server command: /skin
+[01:42:20] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> pq me puse mi skin
+[01:42:27] [Async Chat Thread - #38/INFO]: [Not Secure] <Kadel> a
+[01:42:31] [Async Chat Thread - #36/INFO]: [Not Secure] <Rghost1700> con el comando
+[01:42:34] [Async Chat Thread - #36/INFO]: [Not Secure] <Kadel> ./skin AngeloXRT
+[01:42:41] [Server thread/INFO]: AngeloXRT issued server command: /skin AngeloXRT
+[01:43:04] [Server thread/INFO]: AngeloXRT issued server command: /skin edit
+[01:44:47] [Async Chat Thread - #39/INFO]: [Not Secure] <AngeloXRT> no me deja poner ese comando, dejame ver que hago
+[01:45:45] [Server thread/INFO]: Kadel fell from a high place
+[01:45:48] [Async Chat Thread - #41/INFO]: [Not Secure] <Rghost1700> XD
+[01:45:52] [Server thread/INFO]: Kadel issued server command: /bck
+[01:45:54] [Server thread/INFO]: Kadel issued server command: /back
+[01:45:56] [Async Chat Thread - #42/INFO]: [Not Secure] <Kadel> el puente funciona
+[01:46:04] [Async Chat Thread - #41/INFO]: [Not Secure] <Rghost1700> puente del suicidio
+[01:46:04] [Server thread/INFO]: AngeloXRT issued server command: /skin AngeloXRT
+[01:46:24] [Server thread/INFO]: AngeloXRT issued server command: /skin edit
+[01:46:26] [Server thread/WARN]: Kadel was kicked due to keepalive timeout!
+[01:46:26] [Server thread/INFO]: Kadel lost connection: Timed out
+[01:46:26] [Server thread/INFO]: Kadel left the game
+[01:47:43] [Server thread/INFO]: AngeloXRT issued server command: /skin search AngeloXRT
+[01:47:50] [Server thread/INFO]: [Not Secure] [Server] el puente funciona tan bien que hasta me saco del server
+[01:48:02] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.131.
+[01:48:02] [luckperms-command-executor/INFO]: > /lp user <user>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp group <group>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp track <track>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp log
+[01:48:02] [luckperms-command-executor/INFO]: > /lp sync
+[01:48:02] [luckperms-command-executor/INFO]: > /lp info
+[01:48:02] [luckperms-command-executor/INFO]: > /lp editor [type]
+[01:48:02] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[01:48:02] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[01:48:02] [luckperms-command-executor/INFO]: > /lp search <permission>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp networksync
+[01:48:02] [luckperms-command-executor/INFO]: > /lp import <file>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp export <file>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[01:48:02] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[01:48:02] [luckperms-command-executor/INFO]: > /lp translations
+[01:48:02] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp listgroups
+[01:48:02] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[01:48:02] [luckperms-command-executor/INFO]: > /lp listtracks
+[01:48:08] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[01:48:09] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[01:48:09] [luckperms-command-executor/INFO]: https://luckperms.net/editor/KGEVTdalwF
+[01:48:26] [luckperms-worker-7/INFO]: [LP] An editor window has connected, but it is not yet trusted.
+[01:48:26] [luckperms-worker-7/INFO]: [LP] (session id = cb58-7114, browser = Microsoft Edge on Windows)
+[01:48:26] [luckperms-worker-7/INFO]: [LP] If it was you, run /lp trusteditor cb58-7114 to trust the session!
+[01:48:33] [luckperms-command-executor/INFO]: [LP] The editor session has been marked as trusted.
+[01:48:33] [luckperms-command-executor/INFO]: [LP] In the future, connections from the same browser will be trusted automatically.
+[01:48:33] [luckperms-command-executor/INFO]: [LP] The plugin will now attempt to establish a connection with the editor...
+[01:48:34] [luckperms-worker-9/INFO]: [LP] Editor window connected successfully.
+[01:48:50] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> roger explicame por whatsapp como poner mi skin
