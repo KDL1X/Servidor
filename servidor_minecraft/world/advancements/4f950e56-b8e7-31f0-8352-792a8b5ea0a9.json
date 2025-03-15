@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-15 00:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-03-15 00:03:12 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-15 00:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-15 00:15:04 +0000"
@@ -663,7 +675,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-15 00:32:57 +0000",
       "minecraft:slime": "2025-03-15 00:33:06 +0000",
-      "minecraft:zombie": "2025-03-15 00:15:02 +0000"
+      "minecraft:zombie": "2025-03-15 00:15:02 +0000",
+      "minecraft:drowned": "2025-03-15 00:44:35 +0000"
     },
     "done": false
   },
