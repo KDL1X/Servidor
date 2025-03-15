@@ -354,3 +354,51 @@
 [01:48:33] [luckperms-command-executor/INFO]: [LP] The plugin will now attempt to establish a connection with the editor...
 [01:48:34] [luckperms-worker-9/INFO]: [LP] Editor window connected successfully.
 [01:48:50] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> roger explicame por whatsapp como poner mi skin
+[01:48:53] [Async Chat Thread - #44/INFO]: [Not Secure] <AngeloXRT> pls
+[01:49:06] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> ./skin y el nombre de una cuenta premium y se te aplica
+[01:49:22] [luckperms-worker-9/INFO]: [LP] Changes have been received from the connected web editor session.
+[01:49:22] [luckperms-worker-9/INFO]: [LP] Web editor data was applied to group default successfully.
+[01:49:22] [luckperms-worker-9/INFO]: [LP] (4 additions and 0 deletions)
+[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.command.update.other (true)
+[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.ownskin (true)
+[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.command.search (true)
+[01:49:22] [luckperms-worker-9/INFO]: +  skinsrestorer.command.set.other (true)
+[01:49:28] [luckperms-worker-15/INFO]: [LP] Changes have been received from the connected web editor session.
+[01:49:28] [luckperms-worker-15/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[01:49:44] [Async Chat Thread - #44/INFO]: [Not Secure] <AngeloXRT> la vaina es que yo tengo una skin propia que yo mismo hice :/
+[01:49:51] [Async Chat Thread - #43/INFO]: [Not Secure] <Rghost1700> chales
+[01:49:59] [Server thread/INFO]: [Not Secure] [Server] pero premium o pirata
+[01:50:00] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> tienes cuenta en tlauncher?
+[01:50:08] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> tlauncher
+[01:50:27] [Server thread/INFO]: [Not Secure] [Server] para usar tu skin con el plugin siendo no premium tienes que subirla a minecraftskins
+[01:50:37] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> intenta ponerte la skin desde el launcher y asi creo que puedes al menos ver tu propia skin
+[01:51:05] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> ya la tengo desde el launcher, mira el grupo xd
+[01:51:21] [User Authenticator #3/INFO]: UUID of player Kadel is 51ac9d5b-7a96-3715-bb0a-deb9fe780cb4
+[01:51:21] [Server thread/INFO]: Kadel joined the game
+[01:51:21] [Server thread/INFO]: Kadel[/127.117.178.56:51651] logged in with entity id 23352 at ([world]-1349.5, 69.0, -1978.5)
+[01:51:44] [Async Chat Thread - #44/INFO]: [Not Secure] <Kadel> diablo me robaron los zapatos
+[01:51:50] [Async Chat Thread - #44/INFO]: [Not Secure] <Rghost1700> XD
+[01:51:53] [Async Chat Thread - #44/INFO]: [Not Secure] <Kadel> pajuos
+[01:51:55] [Server thread/INFO]: Kadel issued server command: /home
+[01:51:59] [Async Chat Thread - #43/INFO]: [Not Secure] <AngeloXRT> eso es la tipica experiencia latina
+[01:52:03] [Async Chat Thread - #43/INFO]: [Not Secure] <Rghost1700> intenta lo que dijo villa
+[01:52:10] [Async Chat Thread - #44/INFO]: [Not Secure] <AngeloXRT> en eso estoy
+[01:53:50] [Server thread/INFO]: AngeloXRT issued server command: /skin search AngeloXRT
+[01:53:59] [Server thread/INFO]: AngeloXRT issued server command: /skin AngeloXRT
+[01:54:15] [Async Chat Thread - #45/INFO]: [Not Secure] <AngeloXRT> aja, ya subi mi skin a minecraftskins
+[01:54:17] [Async Chat Thread - #46/INFO]: [Not Secure] <AngeloXRT> ahora?
+[01:54:21] [Async Chat Thread - #45/INFO]: [Not Secure] <Kadel> donde dice image link
+[01:54:23] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> le das
+[01:54:25] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> y copias la url
+[01:54:30] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> y ahi pones /skin y la url
+[01:54:59] [Server thread/INFO]: AngeloXRT issued server command: /skin https://www.minecraftskins.com/uploads/skins/2025/03/15/angeloxrt-23118798.png?v778
+[01:55:29] [Async Chat Thread - #46/INFO]: [Not Secure] <AngeloXRT> ya
+[01:55:33] [Async Chat Thread - #45/INFO]: [Not Secure] <AngeloXRT> gracias
+[01:55:38] [Server thread/INFO]: Rghost1700 issued server command: /back
+[01:55:51] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> denada
+[01:55:56] [Async Chat Thread - #45/INFO]: [Not Secure] <Kadel> son 50 dolares
+[01:56:12] [Async Chat Thread - #46/INFO]: [Not Secure] <AngeloXRT> 50 coñazos te voy a dar para que te caigas de tu pinche puente
+[01:56:17] [Async Chat Thread - #45/INFO]: [Not Secure] <Kadel> tremendo
+[01:56:46] [Server thread/INFO]: Rghost1700 issued server command: /back
+[01:56:50] [Async Chat Thread - #46/INFO]: [Not Secure] <Kadel> puro water drop
+[01:57:13] [Async Chat Thread - #46/INFO]: [Not Secure] <Rghost1700> tangamandapio
