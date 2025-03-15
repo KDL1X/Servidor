@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 127.117.178.56
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1742001360911
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1741678390414
-  login: 0
+  login: 1742000961413
 money: '0'
 logoutlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
@@ -27,3 +27,12 @@ logoutlocation:
   z: -1961.378426573552
   yaw: -129.51025390625
   pitch: 31.44013214111328
+last-account-name: Kadel
+lastlocation:
+  world: 4dd01871-d252-4a11-900b-4676e0bb15ae
+  world-name: world
+  x: -1356.24450232875
+  y: 62.0
+  z: -1983.6997645901938
+  yaw: 89.551513671875
+  pitch: 30.591434478759766
