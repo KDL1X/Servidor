@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742009089811
+  lastteleport: 1742010637111
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742010387767
+  logout: 1742010754764
   login: 1742010389611
 money: '0'
 last-account-name: AngeloXRT
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1332.500009395633
+  x: -1332.5
   y: 119.0
-  z: -1919.699999988079
-  yaw: 31.499975204467773
-  pitch: 5.100000858306885
+  z: -1919.5
+  yaw: 14.999978065490723
+  pitch: -1.7999993562698364
 logoutlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1315.662961774981
-  y: 118.0
-  z: -1925.7046562252153
-  yaw: 73.94776916503906
-  pitch: 14.850311279296875
+  x: -1327.202834950145
+  y: 115.0
+  z: -1974.1248236213346
+  yaw: 5.0986328125
+  pitch: 26.700031280517578
