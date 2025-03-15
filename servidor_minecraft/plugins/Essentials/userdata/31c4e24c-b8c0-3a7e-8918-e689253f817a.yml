@@ -4,14 +4,14 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.126.159.180
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742007160061
+  lastteleport: 1742008532061
   lastheal: 0
   mute: 0
   jail: 0
@@ -31,8 +31,8 @@ last-account-name: Rghost1700
 lastlocation:
   world: 4dd01871-d252-4a11-900b-4676e0bb15ae
   world-name: world
-  x: -1380.4815419784345
+  x: -1374.3020458514072
   y: 106.0
-  z: -2024.8691071897188
-  yaw: -13.546579360961914
-  pitch: 6.973823547363281
+  z: -2032.165813838622
+  yaw: -142.43255615234375
+  pitch: 15.755593299865723
