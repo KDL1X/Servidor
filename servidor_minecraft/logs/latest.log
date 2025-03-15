@@ -433,3 +433,8 @@
 [02:08:01] [Async Chat Thread - #49/INFO]: [Not Secure] <Kadel> ya veo yo como lo arreglo
 [02:08:22] [Async Chat Thread - #49/INFO]: [Not Secure] <AngeloXRT> estoy empezando el proyecto, denme chance
 [02:08:36] [Async Chat Thread - #49/INFO]: [Not Secure] <Kadel> Greyde te hubiera echo ahcerlo 5 veces
+[02:09:08] [Async Chat Thread - #50/INFO]: [Not Secure] <AngeloXRT> xd
+[02:10:14] [Server thread/INFO]: Villager EntityVillager['Villager'/219, uuid='dc08c3c0-1f65-4323-87d2-5a404b823cfc', l='ServerLevel[world]', x=-1358.70, y=121.00, z=-1892.30, cpos=[-85, -119], tl=287924, v=true] died, message: 'Villager was slain by Zombie'
+[02:10:22] [Server thread/INFO]: Villager EntityVillager['Villager'/230, uuid='924ec020-1df3-46dc-99c1-d4bc4e4cdd8f', l='ServerLevel[world]', x=-1358.18, y=121.00, z=-1892.30, cpos=[-85, -119], tl=286808, v=true] died, message: 'Villager was slain by Zombie'
+[02:10:29] [Server thread/INFO]: Villager EntityVillager['Nitwit'/229, uuid='7eb3da63-b423-44e2-8e29-508626ea2ffa', l='ServerLevel[world]', x=-1357.60, y=121.00, z=-1892.30, cpos=[-85, -119], tl=286110, v=true] died, message: 'Nitwit was slain by Zombie'
+[02:11:32] [Async Chat Thread - #52/INFO]: [Not Secure] <Kadel> una vaca dando vueltas
