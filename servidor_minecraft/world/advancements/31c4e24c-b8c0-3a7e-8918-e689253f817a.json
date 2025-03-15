@@ -2277,6 +2277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-15 03:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-15 01:15:50 +0000"

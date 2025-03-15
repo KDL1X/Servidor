@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1742011606017
   login: 1742008013211
 money: '0'
 last-account-name: Salchipapa264
@@ -28,3 +28,11 @@ lastlocation:
   z: -2034.7992761126818
   yaw: -28.201171875
   pitch: 55.64998245239258
+logoutlocation:
+  world: 4dd01871-d252-4a11-900b-4676e0bb15ae
+  world-name: world
+  x: -1337.925000011921
+  y: 116.0
+  z: -1961.3849175372043
+  yaw: -91.2003173828125
+  pitch: 21.45008659362793
